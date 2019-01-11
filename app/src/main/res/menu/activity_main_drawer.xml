@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_layout_satu"
+            android:icon="@drawable/ic_field"
+            android:title="Data Lahan" />
+        <item
+            android:id="@+id/nav_layout_pupuk"
+            android:icon="@drawable/ic_benih"
+            android:title="Data Pupuk dan Benih" />
+
+        <item
+            android:id="@+id/nav_layout_dua"
+            android:icon="@drawable/ic_panen"
+            android:title="Data Hasil Panen" />
+
+        <item
+            android:id="@+id/nav_layout_empat"
+            android:icon="@drawable/ic_kalkulasi"
+            android:title="Kalkulasi Hasil Penjualan" />
+
+        <item
+            android:id="@+id/nav_layout_tiga"
+            android:icon="@drawable/ic_profil"
+            android:title="Profil" />
+
+    </group>
+
+    <item android:title="Lain-Lain">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Kritik/Sanan" />
+            <item
+                android:id="@+id/nav_log_out"
+                android:icon="@drawable/ic_logout"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>

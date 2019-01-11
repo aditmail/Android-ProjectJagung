@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+
+                android:text="Waktu Panen"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/linear_waktuPanen"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="7dp"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <EditText
+                    android:id="@+id/input_waktuPanen"
+                    android:layout_width="214dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="10dp"
+                    android:ems="10"
+                    android:inputType="number|numberDecimal"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <Spinner
+                    android:id="@+id/spinner_waktuPanen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.41"
+                    android:entries="@array/waktu_array"
+                    android:prompt="@string/waktu_prompt" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_waktuPanen1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <TextView
+                    android:id="@+id/textView29"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.06"
+                    android:text="Start"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textView33"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.12"
+                    android:text="End"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_waktuPanen2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <EditText
+                    android:id="@+id/editText_tanggalDimulaiPanen"
+                    android:layout_width="125dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.10"
+                    android:clickable="true"
+                    android:cursorVisible="false"
+                    android:ems="10"
+                    android:focusableInTouchMode="false"
+                    android:hint="tgl dimulai"
+                    android:inputType="number|numberDecimal"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/editText_tanggalBerakhirPanen"
+                    android:layout_width="125dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.15"
+                    android:clickable="true"
+                    android:cursorVisible="false"
+                    android:ems="10"
+                    android:focusableInTouchMode="false"
+                    android:hint="tgl berakhir"
+                    android:inputType="number|numberDecimal"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+
+                android:text="Jumlah Berat Panen"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/input_jumlahBeratPanen"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+
+                android:inputType="textMultiLine|textLongMessage"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+
+                android:text="Sortir Hasil Panen"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/input_sortirHasilPanen"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+
+                android:inputType="textMultiLine|textLongMessage"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+
+                android:text="Penjualan Hasil Panen"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/input_penjualanHasilPanen"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+
+                android:inputType="textPersonName"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView39"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+
+                android:text="Komentar"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/input_komentarPanen"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+
+                android:inputType="textMultiLine|textLongMessage"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btnSimpanPanen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="75dp"
+                android:layout_marginRight="75dp"
+                android:layout_marginTop="20dp"
+                android:text="Simpan" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

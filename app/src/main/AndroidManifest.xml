@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aditmail.projectjagung">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".app.AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_logo_bulet"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Registrasi"
+            android:label="Registrasi Akun"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".MainActivityLogin"
+            android:label="Project Jagung">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DataLahan"
+            android:label="Informasi Lahan"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Project Jagung"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".InputHasil"
+            android:label="@string/title_activity_input_hasil"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".updateProfil"
+            android:label="Perbarui Data Profil"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".LihatInputTanam"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".LihatHasilPanen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".UpdateHasilPanen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".UpdateInputTanam"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".InputPupukBenih"
+            android:label="Informasi Pupuk dan Benih"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".InputHasilPanen"
+            android:label="Informasi Hasil Panen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".LihatDataPupukBenih"
+            android:label="Data Pupuk dan Benih"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".UpdateDataPupukBenih"
+            android:label="Perbarui Data Pupuk dan Benih"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".LihatDataHasilPanenBaru"
+            android:label="Data Hasil Panen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".UpdateDataHasilPanenBaru"
+            android:label="Perbarui Data Hasil Panen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".KalkulasiTotal"
+            android:label="Kalkulasi Hasil Panen dan Pengeluaran"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".CariPeriode"
+            android:label="Cari Periode "></activity>
+        <activity android:name=".KritikSaran"></activity>
+    </application>
+
+</manifest>

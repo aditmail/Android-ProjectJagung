@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.aditmail.projectjagung.InputHasil">
+
+    <item
+        android:id="@+id/data_input"
+        android:orderInCategory="100"
+        android:title="Data Input Tanam"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/data_hasil"
+        android:orderInCategory="100"
+        android:title="Data Hasil Panen"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+</menu>

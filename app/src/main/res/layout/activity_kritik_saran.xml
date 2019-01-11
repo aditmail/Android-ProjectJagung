@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.aditmail.projectjagung.KritikSaran">
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:fontFamily="sans-serif"
+        android:text="Kritik dan Saran"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView46"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif"
+        android:text="Bantu Kami untuk dapat menyempurnakan Project Jagung ini dengan memberikan Kritik atau Saran"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText_kritikSaran"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnKirim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="75dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginTop="20dp"
+        android:elevation="0dp"
+        android:fontFamily="monospace"
+        android:text="Kirimkan"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+</LinearLayout>

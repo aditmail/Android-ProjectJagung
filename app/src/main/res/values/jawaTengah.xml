@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //--->> Kabupaten:  Jawa Tengah
+    --> Kecamatan:  Kabupaten Banjarnegara
+    <string name="kecamatanKabupatenBanjarnegara_prompt">Pilih Kecamatan Kabupaten Banjarnegara</string>
+    <string-array name="kecamatanKabupatenBanjarnegara_array">
+        <item>Kecamatan Banjarmangu</item>
+        <item>Kecamatan Banjarnegara</item>
+        <item>Kecamatan Batur</item>
+        <item>Kecamatan Bawang</item>
+        <item>Kecamatan Kalibening</item>
+        <item>Kecamatan Karangkobar</item>
+        <item>Kecamatan Madukara</item>
+        <item>Kecamatan Mandiraja</item>
+        <item>Kecamatan Pagedongan</item>
+        <item>Kecamatan Pagentan</item>
+        <item>Kecamatan Pandanarum</item>
+        <item>Kecamatan Pejawaran</item>
+        <item>Kecamatan Punggelan</item>
+        <item>Kecamatan Purwonegoro</item>
+        <item>Kecamatan Purworejo Klampok</item>
+        <item>Kecamatan Rakit</item>
+        <item>Kecamatan Sigaluh</item>
+        <item>Kecamatan Susukan</item>
+        <item>Kecamatan Wanandadi</item>
+        <item>Kecamatan Wanayasa</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Banyumas
+    <string name="kecamatanKabupatenBanyumas_prompt">Pilih Kecamatan Kabupaten Banyumas</string>
+    <string-array name="kecamatanKabupatenBanyumas_array">
+        <item>Kecamatan Lumbir</item>
+        <item>Kecamatan Wangon</item>
+        <item>Kecamatan Jatilawang</item>
+        <item>Kecamatan Rawalo</item>
+        <item>Kecamatan Kebasen</item>
+        <item>Kecamatan Kemranjen</item>
+        <item>Kecamatan Sumpiuh</item>
+        <item>Kecamatan Tambak</item>
+        <item>Kecamatan Somagede</item>
+        <item>Kecamatan Kalibagor</item>
+        <item>Kecamatan Banyumas</item>
+        <item>Kecamatan Patikraja</item>
+        <item>Kecamatan Purwojati</item>
+        <item>Kecamatan Ajibarang</item>
+        <item>Kecamatan Gumelar</item>
+        <item>Kecamatan Pekuncen</item>
+        <item>Kecamatan Cilongok</item>
+        <item>Kecamatan Karanglewas</item>
+        <item>Kecamatan Kedungbanteng</item>
+        <item>Kecamatan Baturraden</item>
+        <item>Kecamatan Sumbang</item>
+        <item>Kecamatan Kembaran</item>
+        <item>Kecamatan Sokaraja</item>
+        <item>Kecamatan Purwokerto Selatan</item>
+        <item>Kecamatan Purwokerto Barat</item>
+        <item>Kecamatan Purwokerto Timur</item>
+        <item>Kecamatan Purwokerto Utara</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Batang
+    <string name="kecamatanKabupatenBatang_prompt">Pilih Kecamatan Kabupaten Batang</string>
+    <string-array name="kecamatanKabupatenBatang_array">
+        <item>Kecamatan Batang</item>
+        <item>Kecamatan Tulis</item>
+        <item>Kecamatan Warungasem</item>
+        <item>Kecamatan Bandar</item>
+        <item>Kecamatan Blado</item>
+        <item>Kecamatan Wonotunggal</item>
+        <item>Kecamatan Subah</item>
+        <item>Kecamatan Gringsing</item>
+        <item>Kecamatan Limpung</item>
+        <item>Kecamatan Bawang</item>
+        <item>Kecamatan Reban</item>
+        <item>Kecamatan Tersono</item>
+        <item>Kecamatan Kademan</item>
+        <item>Kecamatan Pecalungan</item>
+        <item>Kecamatan Banyuputih</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Blora
+    <string name="kecamatanKabupatenBlora_prompt">Pilih Kecamatan Kabupaten Blora</string>
+    <string-array name="kecamatanKabupatenBlora_array">
+        <item>Kecamatan Banjarejo</item>
+        <item>Kecamatan Blora Kota</item>
+        <item>Kecamatan Bogorejo</item>
+        <item>Kecamatan Cepu</item>
+        <item>Kecamatan Japah</item>
+        <item>Kecamatan Jati</item>
+        <item>Kecamatan Jepon</item>
+        <item>Kecamatan Jiken</item>
+        <item>Kecamatan Kedungtuban</item>
+        <item>Kecamatan Kradenan</item>
+        <item>Kecamatan Kunduran</item>
+        <item>Kecamatan Ngawen</item>
+        <item>Kecamatan Randublatung</item>
+        <item>Kecamatan Sambong</item>
+        <item>Kecamatan Todanan</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Boyolali
+    <string name="kecamatanKabupatenBoyolali_prompt">Pilih Kecamatan Kabupaten Boyolali</string>
+    <string-array name="kecamatanKabupatenBoyolali_array">
+        <item>Kecamatan Ampel</item>
+        <item>Kecamatan Andong</item>
+        <item>Kecamatan Banyudono</item>
+        <item>Kecamatan Boyolali</item>
+        <item>Kecamatan Cepogo</item>
+        <item>Kecamatan Juwangi</item>
+        <item>Kecamatan Karanggede</item>
+        <item>Kecamatan Kemusu</item>
+        <item>Kecamatan Klego</item>
+        <item>Kecamatan Mojosongo</item>
+        <item>Kecamatan Musuk</item>
+        <item>Kecamatan Ngemplak</item>
+        <item>Kecamatan Nogosari</item>
+        <item>Kecamatan Sambi</item>
+        <item>Kecamatan Sawit</item>
+        <item>Kecamatan Selo</item>
+        <item>Kecamatan Simo</item>
+        <item>Kecamatan Teras</item>
+        <item>Kecamatan Wonosegoro</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Brebes
+    <string name="kecamatanKabupatenBrebes_prompt">Pilih Kecamatan Kabupaten Brebes</string>
+    <string-array name="kecamatanKabupatenBrebes_array">
+        <item>Kecamatan Banjarharjo</item>
+        <item>Kecamatan Bantarkawung</item>
+        <item>Kecamatan Brebes</item>
+        <item>Kecamatan Bulakamba</item>
+        <item>Kecamatan Bumiayu</item>
+        <item>Kecamatan Jatibarang</item>
+        <item>Kecamatan Kersana</item>
+        <item>Kecamatan Ketanggungan</item>
+        <item>Kecamatan Larangan</item>
+        <item>Kecamatan Losari</item>
+        <item>Kecamatan Paguyangan</item>
+        <item>Kecamatan Salem</item>
+        <item>Kecamatan Sirampog</item>
+        <item>Kecamatan Songgom</item>
+        <item>Kecamatan Tanjung</item>
+        <item>Kecamatan Tonjong</item>
+        <item>Kecamatan Wanasari</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Cilacap
+    <string name="kecamatanKabupatenCilacap_prompt">Pilih Kecamatan Kabupaten Cilacap</string>
+    <string-array name="kecamatanKabupatenCilacap_array">
+        <item>Kecamatan Adipala</item>
+        <item>Kecamatan Bantarsari</item>
+        <item>Kecamatan Binangun</item>
+        <item>Kecamatan Cilacap Selatan</item>
+        <item>Kecamatan Cilacap Tengah</item>
+        <item>Kecamatan Cilacap Utara</item>
+        <item>Kecamatan Cimanggu</item>
+        <item>Kecamatan Cipari</item>
+        <item>Kecamatan Dayeuhluhur</item>
+        <item>Kecamatan Gandrungmangu</item>
+        <item>Kecamatan Jeruklegi</item>
+        <item>Kecamatan Kampung Laut</item>
+        <item>Kecamatan Karangpucung</item>
+        <item>Kecamatan Kawunganten</item>
+        <item>Kecamatan Kedungreja</item>
+        <item>Kecamatan Kesugihan</item>
+        <item>Kecamatan Kroya</item>
+        <item>Kecamatan Majenang</item>
+        <item>Kecamatan Maos</item>
+        <item>Kecamatan Nusawungu</item>
+        <item>Kecamatan Patimuan</item>
+        <item>Kecamatan Sampang</item>
+        <item>Kecamatan Sidareja</item>
+        <item>Kecamatan Wanareja</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Demak
+    <string name="kecamatanKabupatenDemak_prompt">Pilih Kecamatan Kabupaten Demak</string>
+    <string-array name="kecamatanKabupatenDemak_array">
+        <item>Kecamatan Bonang</item>
+        <item>Kecamatan Demak</item>
+        <item>Kecamatan Dempet</item>
+        <item>Kecamatan Gajah</item>
+        <item>Kecamatan Guntur</item>
+        <item>Kecamatan Karang Tengah</item>
+        <item>Kecamatan Karanganyar</item>
+        <item>Kecamatan Karangawen</item>
+        <item>Kecamatan Kebonagung</item>
+        <item>Kecamatan Mijen</item>
+        <item>Kecamatan Mranggen</item>
+        <item>Kecamatan Sayung</item>
+        <item>Kecamatan Wedung</item>
+        <item>Kecamatan Wonosalam</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Grobogan
+    <string name="kecamatanKabupatenGrobogan_prompt">Pilih Kecamatan Kabupaten Grobogan</string>
+    <string-array name="kecamatanKabupatenGrobogan_array">
+        <item>Kecamatan Brati</item>
+        <item>Kecamatan Gabus</item>
+        <item>Kecamatan Geyer</item>
+        <item>Kecamatan Godong</item>
+        <item>Kecamatan Grobogan</item>
+        <item>Kecamatan Gubug</item>
+        <item>Kecamatan Karangrayung</item>
+        <item>Kecamatan Kedungjati</item>
+        <item>Kecamatan Klambu</item>
+        <item>Kecamatan Kradenan</item>
+        <item>Kecamatan Ngaringan</item>
+        <item>Kecamatan Penawangan</item>
+        <item>Kecamatan Pulokulon</item>
+        <item>Kecamatan Purwodadi</item>
+        <item>Kecamatan Tanggungharjo</item>
+        <item>Kecamatan Tawangharjo</item>
+        <item>Kecamatan Tegowanu</item>
+        <item>Kecamatan Toroh</item>
+        <item>Kecamatan Wirosari</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Jepara
+    <string name="kecamatanKabupatenJepara_prompt">Pilih Kecamatan Kabupaten Jepara</string>
+    <string-array name="kecamatanKabupatenJepara_array">
+        <item>Kecamatan Bangsri</item>
+        <item>Kecamatan Batealit</item>
+        <item>Kecamatan Donorojo</item>
+        <item>Kecamatan Jepara</item>
+        <item>Kecamatan Kalinyamatan</item>
+        <item>Kecamatan Karimunjawa</item>
+        <item>Kecamatan Kedung</item>
+        <item>Kecamatan Keling</item>
+        <item>Kecamatan Kembang</item>
+        <item>Kecamatan Mayong</item>
+        <item>Kecamatan Mlonggo</item>
+        <item>Kecamatan Nalumsari</item>
+        <item>Kecamatan Pakis Aji</item>
+        <item>Kecamatan Pecangaan</item>
+        <item>Kecamatan Tahunan</item>
+        <item>Kecamatan Welahan</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Karanganyar
+    <string name="kecamatanKabupatenKaranganyar_prompt">Pilih Kecamatan Kabupaten Karanganyar</string>
+    <string-array name="kecamatanKabupatenKaranganyar_array">
+        <item>Kecamatan Colomadu</item>
+        <item>Kecamatan Gondangrejo</item>
+        <item>Kecamatan Jaten</item>
+        <item>Kecamatan Jatipuro</item>
+        <item>Kecamatan Jatiyoso</item>
+        <item>Kecamatan Jenawi</item>
+        <item>Kecamatan Jumantono</item>
+        <item>Kecamatan Jumapolo</item>
+        <item>Kecamatan Karanganyar</item>
+        <item>Kecamatan Karangpandan</item>
+        <item>Kecamatan Kebakkramat</item>
+        <item>Kecamatan Kerjo</item>
+        <item>Kecamatan Matesih</item>
+        <item>Kecamatan Mojogedang</item>
+        <item>Kecamatan Ngargoyoso</item>
+        <item>Kecamatan Tasikmadu</item>
+        <item>Kecamatan Tawangmangu</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Kebumen
+    <string name="kecamatanKabupatenKebumen_prompt">Pilih Kecamatan Kabupaten Kebumen</string>
+    <string-array name="kecamatanKabupatenKebumen_array">
+        <item>Kecamatan Ambal</item>
+        <item>Kecamatan Ayah</item>
+        <item>Kecamatan Bonorowo</item>
+        <item>Kecamatan Buayan</item>
+        <item>Kecamatan Buluspesantren</item>
+        <item>Kecamatan Gombong</item>
+        <item>Kecamatan Karanganyar</item>
+        <item>Kecamatan Karanggayam</item>
+        <item>Kecamatan Karangsambung</item>
+        <item>Kecamatan Kebumen</item>
+        <item>Kecamatan Klirong</item>
+        <item>Kecamatan Kutowinangun</item>
+        <item>Kecamatan Kuwarasan</item>
+        <item>Kecamatan Mirit</item>
+        <item>Kecamatan Padureso</item>
+        <item>Kecamatan Pejagoan</item>
+        <item>Kecamatan Petanahan</item>
+        <item>Kecamatan Poncowarno</item>
+        <item>Kecamatan Prembun</item>
+        <item>Kecamatan Puring</item>
+        <item>Kecamatan Rowokele</item>
+        <item>Kecamatan Sadang</item>
+        <item>Kecamatan Sempor</item>
+        <item>Kecamatan Sruweng</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Kendal
+    <string name="kecamatanKabupatenKendal_prompt">Pilih Kecamatan Kabupaten Kendal</string>
+    <string-array name="kecamatanKabupatenKendal_array">
+        <item>Kecamatan Boja</item>
+        <item>Kecamatan Brangsong</item>
+        <item>Kecamatan Capiring</item>
+        <item>Kecamatan Gemuh</item>
+        <item>Kecamatan Kaliwungu</item>
+        <item>Kecamatan Kaliwungu Selatan</item>
+        <item>Kecamatan Kangkung</item>
+        <item>Kecamatan Kendal</item>
+        <item>Kecamatan Limbangan</item>
+        <item>Kecamatan Ngampal</item>
+        <item>Kecamatan Pagerruyung</item>
+        <item>Kecamatan Patean</item>
+        <item>Kecamatan Patebon</item>
+        <item>Kecamatan Pegandon</item>
+        <item>Kecamatan Piantungan</item>
+        <item>Kecamatan Ringinarum</item>
+        <item>Kecamatan Rowosari</item>
+        <item>Kecamatan Singorojo</item>
+        <item>Kecamatan Sukorejo</item>
+        <item>Kecamatan Weleri</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Klaten
+    <string name="kecamatanKabupatenKlaten_prompt">Pilih Kecamatan Kabupaten Klaten</string>
+    <string-array name="kecamatanKabupatenKlaten_array">
+        <item>Kecamatan Bayat</item>
+        <item>Kecamatan Cawas</item>
+        <item>Kecamatan Ceper</item>
+        <item>Kecamatan Delanggu</item>
+        <item>Kecamatan Gantiwarno</item>
+        <item>Kecamatan Jatinom</item>
+        <item>Kecamatan Jogonalan</item>
+        <item>Kecamatan Juwiring</item>
+        <item>Kecamatan Kalikotes</item>
+        <item>Kecamatan Karanganom</item>
+        <item>Kecamatan Karangdowo</item>
+        <item>Kecamatan Karangnongko</item>
+        <item>Kecamatan Kebonarum</item>
+        <item>Kecamatan Kemalang</item>
+        <item>Kecamatan Klaten Utara</item>
+        <item>Kecamatan Klaten Tengah</item>
+        <item>Kecamatan Klaten Selatan</item>
+        <item>Kecamatan Manisrenggo</item>
+        <item>Kecamatan Ngawen</item>
+        <item>Kecamatan Pedan</item>
+        <item>Kecamatan Polanharjo</item>
+        <item>Kecamatan Prambanan</item>
+        <item>Kecamatan Trucuk</item>
+        <item>Kecamatan Tulung</item>
+        <item>Kecamatan Wedi</item>
+        <item>Kecamatan Wonosari</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Kudus
+    <string name="kecamatanKabupatenKudus_prompt">Pilih Kecamatan Kabupaten Kudus</string>
+    <string-array name="kecamatanKabupatenKudus_array">
+        <item>Kecamatan Bae</item>
+        <item>Kecamatan Dawe</item>
+        <item>Kecamatan Gebog</item>
+        <item>Kecamatan Jati</item>
+        <item>Kecamatan Jekulo</item>
+        <item>Kecamatan Kaliwungu</item>
+        <item>Kecamatan Kudus Kota</item>
+        <item>Kecamatan Mejobo</item>
+        <item>Kecamatan Undaan</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Magelang
+    <string name="kecamatanKabupatenMagelang_prompt">Pilih Kecamatan Kabupaten Magelang</string>
+    <string-array name="kecamatanKabupatenMagelang_array">
+        <item>Kecamatan Bandongan</item>
+        <item>Kecamatan Borobudur</item>
+        <item>Kecamatan Candimulyo</item>
+        <item>Kecamatan Dukun</item>
+        <item>Kecamatan Grabag</item>
+        <item>Kecamatan Kajoran</item>
+        <item>Kecamatan Kaliangkrik</item>
+        <item>Kecamatan Mertoyudan</item>
+        <item>Kecamatan Mungkid</item>
+        <item>Kecamatan Mutilan</item>
+        <item>Kecamatan Ngablak</item>
+        <item>Kecamatan Ngluwar</item>
+        <item>Kecamatan Pakis</item>
+        <item>Kecamatan Salam</item>
+        <item>Kecamatan Salaman</item>
+        <item>Kecamatan Sawangan</item>
+        <item>Kecamatan Secang</item>
+        <item>Kecamatan Srumbung</item>
+        <item>Kecamatan Tegalrejo</item>
+        <item>Kecamatan Tempuran</item>
+        <item>Kecamatan Windusari</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pati
+    <string name="kecamatanKabupatenPati_prompt">Pilih Kecamatan Kabupaten Pati</string>
+    <string-array name="kecamatanKabupatenPati_array">
+        <item>Kecamatan Batangan</item>
+        <item>Kecamatan Cluwak</item>
+        <item>Kecamatan Dukuhseti</item>
+        <item>Kecamatan Gabus</item>
+        <item>Kecamatan Gembong</item>
+        <item>Kecamatan Gunungwungkal</item>
+        <item>Kecamatan Jaken</item>
+        <item>Kecamatan Jakenan</item>
+        <item>Kecamatan Juwana</item>
+        <item>Kecamatan Kayen</item>
+        <item>Kecamatan Margorejo</item>
+        <item>Kecamatan Margoyoso</item>
+        <item>Kecamatan Pati</item>
+        <item>Kecamatan Puncakwangi</item>
+        <item>Kecamatan Sukolilo</item>
+        <item>Kecamatan Tambakromo</item>
+        <item>Kecamatan Tayu</item>
+        <item>Kecamatan Tlogowungu</item>
+        <item>Kecamatan Trangkil</item>
+        <item>Kecamatan Wedarijaksa</item>
+        <item>Kecamatan Winong</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pekalongan
+    <string name="kecamatanKabupatenPekalongan_prompt">Pilih Kecamatan Kabupaten Pekalongan</string>
+    <string-array name="kecamatanKabupatenPekalongan_array">
+        <item>Kecamatan Bojong</item>
+        <item>Kecamatan Buaran</item>
+        <item>Kecamatan Dono</item>
+        <item>Kecamatan Kajen</item>
+        <item>Kecamatan Kadangserang</item>
+        <item>Kecamatan Karanganyar</item>
+        <item>Kecamatan Karangdadap</item>
+        <item>Kecamatan Kedungwuni</item>
+        <item>Kecamatan Kesesi</item>
+        <item>Kecamatan Lebakbarang</item>
+        <item>Kecamatan Paninggaran</item>
+        <item>Kecamatan Petungkriono</item>
+        <item>Kecamatan Siwalan</item>
+        <item>Kecamatan Sragi</item>
+        <item>Kecamatan Talun</item>
+        <item>Kecamatan Tirto</item>
+        <item>Kecamatan Wiradesa</item>
+        <item>Kecamatan Wonokerto</item>
+        <item>Kecamatan Wonopringgo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pemalang
+    <string name="kecamatanKabupatenPemalang_prompt">Pilih Kecamatan Kabupaten Pemalang</string>
+    <string-array name="kecamatanKabupatenPemalang_array">
+        <item>Kecamatan Ampel Gading</item>
+        <item>Kecamatan Bantar Bolang</item>
+        <item>Kecamatan Belik</item>
+        <item>Kecamatan Bodeh</item>
+        <item>Kecamatan Comal</item>
+        <item>Kecamatan Moga</item>
+        <item>Kecamatan Pemalang</item>
+        <item>Kecamatan Petarukan</item>
+        <item>Kecamatan Pulosari</item>
+        <item>Kecamatan Randu Dongkal</item>
+        <item>Kecamatan Taman</item>
+        <item>Kecamatan Ulujami</item>
+        <item>Kecamatan Warungpring</item>
+        <item>Kecamatan Watukumpul</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Purbalingga
+    <string name="kecamatanKabupatenPurbalingga_prompt">Pilih Kecamatan Kabupaten Purbalingga</string>
+    <string-array name="kecamatanKabupatenPurbalingga_array">
+        <item>Kecamatan Bobotsari</item>
+        <item>Kecamatan Bojongsari</item>
+        <item>Kecamatan Bukateja</item>
+        <item>Kecamatan Kaligondang</item>
+        <item>Kecamatan Kalimanah</item>
+        <item>Kecamatan Karanganyar</item>
+        <item>Kecamatan Karangjambu</item>
+        <item>Kecamatan Karangmoncol</item>
+        <item>Kecamatan Karangreja</item>
+        <item>Kecamatan Kejobong</item>
+        <item>Kecamatan Kemangkon</item>
+        <item>Kecamatan Kertanegara</item>
+        <item>Kecamatan Kutasari</item>
+        <item>Kecamatan Mrebet</item>
+        <item>Kecamatan Padamara</item>
+        <item>Kecamatan Pengadegan</item>
+        <item>Kecamatan Purbalingga</item>
+        <item>Kecamatan Rembang</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Purworejo
+    <string name="kecamatanKabupatenPurworejo_prompt">Pilih Kecamatan Kabupaten Purworejo</string>
+    <string-array name="kecamatanKabupatenPurworejo_array">
+        <item>Kecamatan Bagelen</item>
+        <item>Kecamatan Banyuurip</item>
+        <item>Kecamatan Bayan</item>
+        <item>Kecamatan Bener</item>
+        <item>Kecamatan Bruno</item>
+        <item>Kecamatan Butuh</item>
+        <item>Kecamatan Gebang</item>
+        <item>Kecamatan Grabag</item>
+        <item>Kecamatan Kaligesing</item>
+        <item>Kecamatan Kemiri</item>
+        <item>Kecamatan Kutoarjo</item>
+        <item>Kecamatan Loano</item>
+        <item>Kecamatan Ngombol</item>
+        <item>Kecamatan Pituruh</item>
+        <item>Kecamatan Purwodadi</item>
+        <item>Kecamatan Purworejo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Rembang
+    <string name="kecamatanKabupatenRembang_prompt">Pilih Kecamatan Kabupaten Rembang</string>
+    <string-array name="kecamatanKabupatenRembang_array">
+        <item>Kecamatan Bulu</item>
+        <item>Kecamatan Gunem</item>
+        <item>Kecamatan Kaliori</item>
+        <item>Kecamatan Kragan</item>
+        <item>Kecamatan Lasem</item>
+        <item>Kecamatan Pamotan</item>
+        <item>Kecamatan Pancur</item>
+        <item>Kecamatan Rembang</item>
+        <item>Kecamatan Sale</item>
+        <item>Kecamatan Sarang</item>
+        <item>Kecamatan Sedan</item>
+        <item>Kecamatan Sluke</item>
+        <item>Kecamatan Sulang</item>
+        <item>Kecamatan Sumber</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Semarang
+    <string name="kecamatanKabupatenSemarang_prompt">Pilih Kecamatan Kabupaten Semarang</string>
+    <string-array name="kecamatanKabupatenSemarang_array">
+        <item>Kecamatan Ambarawa</item>
+        <item>Kecamatan Bancak</item>
+        <item>Kecamatan Bandungan</item>
+        <item>Kecamatan Banyubiru</item>
+        <item>Kecamatan Bawen</item>
+        <item>Kecamatan Bergas</item>
+        <item>Kecamatan Bringin</item>
+        <item>Kecamatan Getasan</item>
+        <item>Kecamatan Jambu</item>
+        <item>Kecamatan Kaliwungu</item>
+        <item>Kecamatan Pabean</item>
+        <item>Kecamatan Pringapus</item>
+        <item>Kecamatan Surnowono</item>
+        <item>Kecamatan Suruh</item>
+        <item>Kecamatan Susukan</item>
+        <item>Kecamatan Tengaran</item>
+        <item>Kecamatan Tuntang</item>
+        <item>Kecamatan Unggaran Barat</item>
+        <item>Kecamatan Unggaran Timur</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Sragen
+    <string name="kecamatanKabupatenSragen_prompt">Pilih Kecamatan Kabupaten Sragen</string>
+    <string-array name="kecamatanKabupatenSragen_array">
+        <item>Kecamatan Gernolong</item>
+        <item>Kecamatan Gesi</item>
+        <item>Kecamatan Gondang</item>
+        <item>Kecamatan Jenar</item>
+        <item>Kecamatan Kalijambe</item>
+        <item>Kecamatan Karangmalang</item>
+        <item>Kecamatan Kedawung</item>
+        <item>Kecamatan Masaran</item>
+        <item>Kecamatan Miri</item>
+        <item>Kecamatan Mondokan</item>
+        <item>Kecamatan Ngampal</item>
+        <item>Kecamatan Plupuh</item>
+        <item>Kecamatan Sambirejo</item>
+        <item>Kecamatan Sambung Macan</item>
+        <item>Kecamatan Sidoharjo</item>
+        <item>Kecamatan Sragen</item>
+        <item>Kecamatan Sukodono</item>
+        <item>Kecamatan Sumberlawang</item>
+        <item>Kecamatan Tangen</item>
+        <item>Kecamatan Tanon</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Sukoharjo
+    <string name="kecamatanKabupatenSukoharjo_prompt">Pilih Kecamatan Kabupaten Sukoharjo</string>
+    <string-array name="kecamatanKabupatenSukoharjo_array">
+        <item>Kecamatan Baki</item>
+        <item>Kecamatan Bendosari</item>
+        <item>Kecamatan Bulu</item>
+        <item>Kecamatan Gatak</item>
+        <item>Kecamatan Grogol</item>
+        <item>Kecamatan Kartasura</item>
+        <item>Kecamatan Mojolaban</item>
+        <item>Kecamatan Nguter</item>
+        <item>Kecamatan Polokarto</item>
+        <item>Kecamatan Sukoharjo</item>
+        <item>Kecamatan Tawangsari</item>
+        <item>Kecamatan Weru</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Tegal
+    <string name="kecamatanKabupatenTegal_prompt">Pilih Kecamatan Kabupaten Tegal</string>
+    <string-array name="kecamatanKabupatenTegal_array">
+        <item>Kecamatan Adiwerna</item>
+        <item>Kecamatan Balapulang</item>
+        <item>Kecamatan Bojong</item>
+        <item>Kecamatan Bumijawa</item>
+        <item>Kecamatan Dukuhturi</item>
+        <item>Kecamatan Dukuhwaru</item>
+        <item>Kecamatan Jatinegara</item>
+        <item>Kecamatan Kedung Banteng</item>
+        <item>Kecamatan Kramat</item>
+        <item>Kecamatan Lebaksiu</item>
+        <item>Kecamatan Margasari</item>
+        <item>Kecamatan Pagerbarang</item>
+        <item>Kecamatan Pangkah</item>
+        <item>Kecamatan Slawi</item>
+        <item>Kecamatan Surodadi</item>
+        <item>Kecamatan Talang</item>
+        <item>Kecamatan Tarub</item>
+        <item>Kecamatan Warurejo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Temanggung
+    <string name="kecamatanKabupatenTemanggung_prompt">Pilih Kecamatan Kabupaten Temanggung</string>
+    <string-array name="kecamatanKabupatenTemanggung_array">
+        <item>Kecamatan Bansari</item>
+        <item>Kecamatan Bejen</item>
+        <item>Kecamatan Bulu</item>
+        <item>Kecamatan Candiroto</item>
+        <item>Kecamatan Germawang</item>
+        <item>Kecamatan Jumo</item>
+        <item>Kecamatan Kaloran</item>
+        <item>Kecamatan Kandangan</item>
+        <item>Kecamatan Kedu</item>
+        <item>Kecamatan Kledung</item>
+        <item>Kecamatan Kranggan</item>
+        <item>Kecamatan Ngadirejo</item>
+        <item>Kecamatan Parakan</item>
+        <item>Kecamatan Pringsurat</item>
+        <item>Kecamatan Selopampang</item>
+        <item>Kecamatan Temanggung</item>
+        <item>Kecamatan Tembarak</item>
+        <item>Kecamatan Tlogomulyo</item>
+        <item>Kecamatan Tretep</item>
+        <item>Kecamatan Wonoboyo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Wonogiri
+    <string name="kecamatanKabupatenWonosobo_prompt">Pilih Kecamatan Kabupaten Wonosobo</string>
+    <string-array name="kecamatanKabupatenWonosobo_array">
+        <item>Kecamatan Garung</item>
+        <item>Kecamatan Kalibawang</item>
+        <item>Kecamatan Kalikajar</item>
+        <item>Kecamatan Kaliwiro</item>
+        <item>Kecamatan Kejajar</item>
+        <item>Kecamatan Kepil</item>
+        <item>Kecamatan Kertek</item>
+        <item>Kecamatan Leksono</item>
+        <item>Kecamatan Mojotengah</item>
+        <item>Kecamatan Sapuran</item>
+        <item>Kecamatan Selomerto</item>
+        <item>Kecamatan Sukoharjo</item>
+        <item>Kecamatan Wadaslintang</item>
+        <item>Kecamatan Watumalang</item>
+        <item>Kecamatan Wonosobo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Wonosobo
+    <string name="kecamatanKabupatenWonogiri_prompt">Pilih Kecamatan Kabupaten Wonogiri</string>
+    <string-array name="kecamatanKabupatenWonogiri_array">
+        <item>Kecamatan Baturetno</item>
+        <item>Kecamatan Batuwarno</item>
+        <item>Kecamatan Bulukerto</item>
+        <item>Kecamatan Eromoko</item>
+        <item>Kecamatan Girimarto</item>
+        <item>Kecamatan Giritontro</item>
+        <item>Kecamatan Giriwoyo</item>
+        <item>Kecamatan Jatipurno</item>
+        <item>Kecamatan Jatiroto</item>
+        <item>Kecamatan Jatisrono</item>
+        <item>Kecamatan Karangtengah</item>
+        <item>Kecamatan Kismantoro</item>
+        <item>Kecamatan Manyaran</item>
+        <item>Kecamatan Ngadirojo</item>
+        <item>Kecamatan Nguntoronadi</item>
+        <item>Kecamatan Paranggupito</item>
+        <item>Kecamatan Pracimantoro</item>
+        <item>Kecamatan Puhpelem</item>
+        <item>Kecamatan Purwantoro</item>
+        <item>Kecamatan Selogiri</item>
+        <item>Kecamatan Sidoharjo</item>
+        <item>Kecamatan Slogohimo</item>
+        <item>Kecamatan Tirtomoyo</item>
+        <item>Kecamatan Wonogiri</item>
+        <item>Kecamatan Wuryantoro</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Magelang
+    <string name="kecamatanKotaMagelang_prompt">Pilih Kecamatan Kota Magelang</string>
+    <string-array name="kecamatanKotaMagelang_array">
+        <item>Kecamatan Magelang Selatan</item>
+        <item>Kecamatan Magelang Tengah</item>
+        <item>Kecamatan Magelang Utara</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Pekalongan
+    <string name="kecamatanKotaPekalongan_prompt">Pilih Kecamatan Kota Pekalongan</string>
+    <string-array name="kecamatanKotaPekalongan_array">
+        <item>Kecamatan Pekalongan Barat</item>
+        <item>Kecamatan Pekalongan Selatan</item>
+        <item>Kecamatan Pekalongan Timur</item>
+        <item>Kecamatan Pekalongan Utara</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Salatiga
+    <string name="kecamatanKotaSalatiga_prompt">Pilih Kecamatan Kota Salatiga</string>
+    <string-array name="kecamatanKotaSalatiga_array">
+        <item>Kecamatan Argomulyo</item>
+        <item>Kecamatan Sidomukti</item>
+        <item>Kecamatan Sidorejo</item>
+        <item>Kecamatan Tingkir</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Semarang
+    <string name="kecamatanKotaSemarang_prompt">Pilih Kecamatan Kota Semarang</string>
+    <string-array name="kecamatanKotaSemarang_array">
+        <item>Kecamatan Banyumanik</item>
+        <item>Kecamatan Candisari</item>
+        <item>Kecamatan Gajahmungkur</item>
+        <item>Kecamatan Gayamsari</item>
+        <item>Kecamatan Genuk</item>
+        <item>Kecamatan Gunungpati</item>
+        <item>Kecamatan Mijen</item>
+        <item>Kecamatan Ngaliyan</item>
+        <item>Kecamatan Pedurungan</item>
+        <item>Kecamatan Semarang Barat</item>
+        <item>Kecamatan Semarang Selatan</item>
+        <item>Kecamatan Semarang Tengah</item>
+        <item>Kecamatan Semarang Timur</item>
+        <item>Kecamatan Semarang Utara</item>
+        <item>Kecamatan Tembalang</item>
+        <item>Kecamatan Tugu</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Surakarta
+    <string name="kecamatanKotaSurakarta_prompt">Pilih Kecamatan Kota Surakarta</string>
+    <string-array name="kecamatanKotaSurakarta_array">
+        <item>Kecamatan Banjarsari</item>
+        <item>Kecamatan Jebres</item>
+        <item>Kecamatan Laweyan</item>
+        <item>Kecamatan Pasar Kliwon</item>
+        <item>Kecamatan Serengan</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Tegal
+    <string name="kecamatanKotaTegal_prompt">Pilih Kecamatan Kota Tegal</string>
+    <string-array name="kecamatanKotaTegal_array">
+        <item>Kecamatan Margadana</item>
+        <item>Kecamatan Tegal Barat</item>
+        <item>Kecamatan Tegal Selatan</item>
+        <item>Kecamatan Tegal Timur</item>
+    </string-array>
+
+    ----- // Kabupaten:  Jawa Tengah
+
+</resources>

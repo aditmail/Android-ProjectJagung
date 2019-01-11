@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //--->> Kabupaten:  Lampung
+    --> Kecamatan:  Kabupaten Lampung Barat
+    <string name="kecamatanKabupatenLampungBarat_prompt">Pilih Kecamatan Kabupaten Lampung Barat</string>
+    <string-array name="kecamatanKabupatenLampungBarat_array">
+        <item>Kecamatan Balik Bukit</item>
+        <item>Kecamatan Batu Brak</item>
+        <item>Kecamatan Belalau</item>
+        <item>Kecamatan Bengkunat</item>
+        <item>Kecamatan Bengkunat Belimbing</item>
+        <item>Kecamatan Gedung Surian</item>
+        <item>Kecamatan Karya Penggawa</item>
+        <item>Kecamatan Lemong</item>
+        <item>Kecamatan Ngambur</item>
+        <item>Kecamatan Pesisir Selatan</item>
+        <item>Kecamatan Pesisir Tengah</item>
+        <item>Kecamatan Pesisir Utara</item>
+        <item>Kecamatan Sekincau</item>
+        <item>Kecamatan Sukau</item>
+        <item>Kecamatan Sumber Jaya</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Lampung Selatan
+    <string name="kecamatanKabupatenLampungSelatan_prompt">Pilih Kecamatan Kabupaten Lampung Selatan</string>
+    <string-array name="kecamatanKabupatenLampungSelatan_array">
+        <item>Kecamatan Bakauheni</item>
+        <item>Kecamatan Candipuro</item>
+        <item>Kecamatan Jati Agung</item>
+        <item>Kecamatan Kalianda</item>
+        <item>Kecamatan Katibung</item>
+        <item>Kecamatan Ketapang</item>
+        <item>Kecamatan Merbau Mataram</item>
+        <item>Kecamatan Natar</item>
+        <item>Kecamatan Palas</item>
+        <item>Kecamatan Penengahan</item>
+        <item>Kecamatan Rajabasa</item>
+        <item>Kecamatan Sidomulyo</item>
+        <item>Kecamatan Sragi</item>
+        <item>Kecamatan Tanjung Bintang</item>
+        <item>Kecamatan Tanjungsari</item>
+        <item>Kecamatan Way Panji</item>
+        <item>Kecamatan Way Sulan</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Lampung Tengah
+    <string name="kecamatanKabupatenLampungTengah_prompt">Pilih Kecamatan Kabupaten Lampung Tengah</string>
+    <string-array name="kecamatanKabupatenLampungTengah_array">
+        <item>Kecamatan Anak Ratu Aji</item>
+        <item>Kecamatan Anak Tuha</item>
+        <item>Kecamatan Bandar Mataram</item>
+        <item>Kecamatan Bandar Surabaya</item>
+        <item>Kecamatan Bangunrejo</item>
+        <item>Kecamatan Bekri</item>
+        <item>Kecamatan Bumi Nabung</item>
+        <item>Kecamatan Bumi Ratu Nuban</item>
+        <item>Kecamatan Gunung Sugih</item>
+        <item>Kecamatan Kalirejo</item>
+        <item>Kecamatan Kota Gajah</item>
+        <item>Kecamatan Padang Ratu</item>
+        <item>Kecamatan Pubian</item>
+        <item>Kecamatan Punggur</item>
+        <item>Kecamatan Putra Rumbia</item>
+        <item>Kecamatan Rumbia</item>
+        <item>Kecamatan Selagai Lingga</item>
+        <item>Kecamatan Sendang Agung</item>
+        <item>Kecamatan Seputih Agung</item>
+        <item>Kecamatan Seputih Banyak</item>
+        <item>Kecamatan Sendang Mataram</item>
+        <item>Kecamatan Seputih Raman</item>
+        <item>Kecamatan Seputih Surabaya</item>
+        <item>Kecamatan Terbanggi Besar</item>
+        <item>Kecamatan Terusan Nunyai</item>
+        <item>Kecamatan Trimurjo</item>
+        <item>Kecamatan Way Pangubuan</item>
+        <item>Kecamatan Way Seputih</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Lampung Timur
+    <string name="kecamatanKabupatenLampungTimur_prompt">Pilih Kecamatan Kabupaten Lampung Timur</string>
+    <string-array name="kecamatanKabupatenLampungTimur_array">
+        <item>Kecamatan Bandar Sribawono</item>
+        <item>Kecamatan Batanghari</item>
+        <item>Kecamatan Batanghari Nuban</item>
+        <item>Kecamatan Braja Slebah</item>
+        <item>Kecamatan Bumi Agung</item>
+        <item>Kecamatan Gunung Pelindung</item>
+        <item>Kecamatan Jabung</item>
+        <item>Kecamatan Labuhan Maringgai</item>
+        <item>Kecamatan Labuhan Ratu</item>
+        <item>Kecamatan Marga Sekampung</item>
+        <item>Kecamatan Margatiga</item>
+        <item>Kecamatan Mataram Baru</item>
+        <item>Kecamatan Melinting</item>
+        <item>Kecamatan Metro Kibang</item>
+        <item>Kecamatan Pasir Sakti</item>
+        <item>Kecamatan Pekalongan</item>
+        <item>Kecamatan Purbolinggo</item>
+        <item>Kecamatan Raman Utara</item>
+        <item>Kecamatan Sekampung</item>
+        <item>Kecamatan Sekampung Udik</item>
+        <item>Kecamatan Sukadana</item>
+        <item>Kecamatan Waway Karya</item>
+        <item>Kecamatan Way Bungur</item>
+        <item>Kecamatan Way Jepara</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Lampung Utara
+    <string name="kecamatanKabupatenLampungUtara_prompt">Pilih Kecamatan Kabupaten Lampung Utara</string>
+    <string-array name="kecamatanKabupatenLampungUtara_array">
+        <item>Kecamatan Abung Pekurun</item>
+        <item>Kecamatan Abung Barat</item>
+        <item>Kecamatan Abung Kunang</item>
+        <item>Kecamatan Abung Selatan</item>
+        <item>Kecamatan Abung Semuli</item>
+        <item>Kecamatan Abung Tengah</item>
+        <item>Kecamatan Abung Surakarta</item>
+        <item>Kecamatan Abung Timur</item>
+        <item>Kecamatan Abung Tinggi</item>
+        <item>Kecamatan Blambangan Pagar</item>
+        <item>Kecamatan Bukit Kemuning</item>
+        <item>Kecamatan Bunga Mayang</item>
+        <item>Kecamatan Hulu Sungkai</item>
+        <item>Kecamatan Kotabumi Selatan</item>
+        <item>Kecamatan Kotabumi Utara</item>
+        <item>Kecamatan Kotabumi</item>
+        <item>Kecamatan Muara Sungkai</item>
+        <item>Kecamatan Sungkai Barat</item>
+        <item>Kecamatan Sungkai Jaya</item>
+        <item>Kecamatan Sungkai Selatan</item>
+        <item>Kecamatan Sungkai Tengah</item>
+        <item>Kecamatan Sungkai Utara</item>
+        <item>Kecamatan Tanjung Raja</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Mesuji
+    <string name="kecamatanKabupatenMesuji_prompt">Pilih Kecamatan Kabupaten Mesuji</string>
+    <string-array name="kecamatanKabupatenMesuji_array">
+        <item>Kecamatan Mesuji</item>
+        <item>Kecamatan Mesuji Timur</item>
+        <item>Kecamatan Panca Jaya</item>
+        <item>Kecamatan Simpang Pematang</item>
+        <item>Kecamatan Tanjung Raya</item>
+        <item>Kecamatan Way Serdang</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pesawaran
+    <string name="kecamatanKabupatenPesawaran_prompt">Pilih Kecamatan Kabupaten Pesawaran</string>
+    <string-array name="kecamatanKabupatenPesawaran_array">
+        <item>Kecamatan Gedong Tataan</item>
+        <item>Kecamatan Kedondong</item>
+        <item>Kecamatan Negeri Katon</item>
+        <item>Kecamatan Padang Cermin</item>
+        <item>Kecamatan Punduh Pidada</item>
+        <item>Kecamatan Tegineneng</item>
+        <item>Kecamatan Way Lima</item>
+        <item>Kecamatan Way Khilau</item>
+        <item>Kecamatan Marga Punduh</item>
+        <item>Kecamatan Teluk Pandan</item>
+        <item>Kecamatan Way Ratai</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pesisir Barat
+    <string name="kecamatanKabupatenPesisirBarat_prompt">Pilih Kecamatan Kabupaten Pesisir Barat</string>
+    <string-array name="kecamatanKabupatenPesisirBarat_array">
+        <item>Kecamatan Bengkunat</item>
+        <item>Kecamatan Bengkunat Belimbing</item>
+        <item>Kecamatan Karya Penggawa</item>
+        <item>Kecamatan Krui Selatan</item>
+        <item>Kecamatan Padang Krui Selatan</item>
+        <item>Kecamatan Lemong</item>
+        <item>Kecamatan Ngambur</item>
+        <item>Kecamatan Pesisir Tengah</item>
+        <item>Kecamatan Pesisir Utara</item>
+        <item>Kecamatan Pulau Pisang</item>
+        <item>Kecamatan Way Krui</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pringsewu
+    <string name="kecamatanKabupatenPringsewu_prompt">Pilih Kecamatan Kabupaten Pringsewu</string>
+    <string-array name="kecamatanKabupatenPringsewu_array">
+        <item>Kecamatan Adi Luwih</item>
+        <item>Kecamatan Ambarawa</item>
+        <item>Kecamatan Banyumas</item>
+        <item>Kecamatan Gading Rejo</item>
+        <item>Kecamatan Pagelaran</item>
+        <item>Kecamatan Pagelaran Utara</item>
+        <item>Kecamatan Pardasuka</item>
+        <item>Kecamatan Pringsewu</item>
+        <item>Kecamatan Sukoharjo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Tanggamus
+    <string name="kecamatanKabupatenTanggamus_prompt">Pilih Kecamatan Kabupaten Tanggamus</string>
+    <string-array name="kecamatanKabupatenTanggamus_array">
+        <item>Kecamatan Air Naningan</item>
+        <item>Kecamatan Bandar Negeri Semuong</item>
+        <item>Kecamatan Bulok</item>
+        <item>Kecamatan Cukuh Balak</item>
+        <item>Kecamatan Gisting</item>
+        <item>Kecamatan Gunung Alip</item>
+        <item>Kecamatan Kota Agung Barat</item>
+        <item>Kecamatan Kota Agung Pusat</item>
+        <item>Kecamatan Kota Agung Timur</item>
+        <item>Kecamatan Kelumbayan</item>
+        <item>Kecamatan Kelumbayan Barat</item>
+        <item>Kecamatan Limau</item>
+        <item>Kecamatan Pematang Sawa</item>
+        <item>Kecamatan Pugung</item>
+        <item>Kecamatan Pulau Panggung</item>
+        <item>Kecamatan Semaka</item>
+        <item>Kecamatan Sumberejo</item>
+        <item>Kecamatan Talang Padang</item>
+        <item>Kecamatan Ulubelu</item>
+        <item>Kecamatan Wonosobo</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Tulang Bawang
+    <string name="kecamatanKabupatenTulangBawang_prompt">Pilih Kecamatan Kabupaten Tulang Bawang</string>
+    <string-array name="kecamatanKabupatenTulangBawang_array">
+        <item>Kecamatan Banjar Agung</item>
+        <item>Kecamatan Banjar Margo</item>
+        <item>Kecamatan Dente Teladas</item>
+        <item>Kecamatan Gedung Aji</item>
+        <item>Kecamatan Gedung Aji Baru</item>
+        <item>Kecamatan Gedung Meneng</item>
+        <item>Kecamatan Menggala</item>
+        <item>Kecamatan Meraksa Aji</item>
+        <item>Kecamatan Penawar Aji</item>
+        <item>Kecamatan Penawar Tama</item>
+        <item>Kecamatan Rawa Pitu</item>
+        <item>Kecamatan Rawajitu Selatan</item>
+        <item>Kecamatan Rawajitu Timur</item>
+        <item>Kecamatan Rawajitu Utara</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Tulang Bawang Barat
+    <string name="kecamatanKabupatenTulangBawangBarat_prompt">Pilih Kecamatan Kabupaten Tulang Bawang Barat</string>
+    <string-array name="kecamatanKabupatenTulangBawangBarat_array">
+        <item>Kecamatan Gunung Agung</item>
+        <item>Kecamatan Gunung Terang</item>
+        <item>Kecamatan Lambu Kibang</item>
+        <item>Kecamatan Pagar Dewa</item>
+        <item>Kecamatan Tulang Bawang Tengah</item>
+        <item>Kecamatan Tulang Bawang Udik</item>
+        <item>Kecamatan Tumijajar</item>
+        <item>Kecamatan Way Kenanga</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Way Kanan
+    <string name="kecamatanKabupatenWayKanan_prompt">Pilih Kecamatan Kabupaten Way Kanan</string>
+    <string-array name="kecamatanKabupatenWayKanan_array">
+        <item>Kecamatan Bahuga</item>
+        <item>Kecamatan Banjir</item>
+        <item>Kecamatan Baradatu</item>
+        <item>Kecamatan Blambangan Umpu</item>
+        <item>Kecamatan Buay Bahuga</item>
+        <item>Kecamatan Bumi Agung</item>
+        <item>Kecamatan Gunung Labuhan</item>
+        <item>Kecamatan Kasui</item>
+        <item>Kecamatan Negara Batin</item>
+        <item>Kecamatan Negeri Agung</item>
+        <item>Kecamatan Negeri Besar</item>
+        <item>Kecamatan Pakuan Ratu</item>
+        <item>Kecamatan Rebang Tangkas</item>
+        <item>Kecamatan Way Tuba</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Kota Bandar Lampung
+    <string name="kecamatanKotaBandarLampung_prompt">Pilih Kecamatan Kota Bandar Lampung</string>
+    <string-array name="kecamatanKotaBandarLampung_array">
+        <item>Kecamatan Bumi Waras</item>
+        <item>Kecamatan Enggal</item>
+        <item>Kecamatan Kedamaian</item>
+        <item>Kecamatan Kedaton</item>
+        <item>Kecamatan Kemiling</item>
+        <item>Kecamatan Labuhan Ratu</item>
+        <item>Kecamatan Langkapura</item>
+        <item>Kecamatan Panjang</item>
+        <item>Kecamatan Rajabasa</item>
+        <item>Kecamatan Sukabumi</item>
+        <item>Kecamatan Sukarame</item>
+        <item>Kecamatan Tanjung Karang Barat</item>
+        <item>Kecamatan Tanjung Karat Pusat</item>
+        <item>Kecamatan Tanjung Karat Timur</item>
+        <item>Kecamatan Tanjung Senang</item>
+        <item>Kecamatan Teluk Betung Barat</item>
+        <item>Kecamatan Teluk Betung Selatan</item>
+        <item>Kecamatan Teluk Betung Timur</item>
+        <item>Kecamatan Teluk Betung Utara</item>
+        <item>Kecamatan Way Halim</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Kota Metro
+    <string name="kecamatanKotaMetro_prompt">Pilih Kecamatan Kota Metro</string>
+    <string-array name="kecamatanKotaMetro_array">
+        <item>Kecamatan Metro Pusat</item>
+        <item>Kecamatan Metro Barat</item>
+        <item>Kecamatan Metro Timur</item>
+        <item>Kecamatan Metro Selatan</item>
+        <item>Kecamatan Metro Utara</item>
+    </string-array>
+
+    ----- // Kabupaten:  Lampung
+
+</resources>

@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //====>> Kabupaten:  Jawa Barat
+    --> Kecamatan:  Kabupaten Bandung
+    <string name="kecamatanKabupatenBandung_prompt">Pilih Kecamatan Kabupaten Bandung</string>
+    <string-array name="kecamatanKabupatenBandung_array">
+        <item>Kecamatan Arjasari</item>
+        <item>Kecamatan Baleendah</item>
+        <item>Kecamatan Banjaran</item>
+        <item>Kecamatan Bojongsoang</item>
+        <item>Kecamatan Cangkuang</item>
+        <item>Kecamatan Cicalengka</item>
+        <item>Kecamatan Cikancung</item>
+        <item>Kecamatan Cilengkrang</item>
+        <item>Kecamatan Cileunyi</item>
+        <item>Kecamatan Cimaung</item>
+        <item>Kecamatan Cimenyan</item>
+        <item>Kecamatan Ciparay</item>
+        <item>Kecamatan Ciwidey</item>
+        <item>Kecamatan Dayeuhkolot</item>
+        <item>Kecamatan Ibun</item>
+        <item>Kecamatan Katapang</item>
+        <item>Kecamatan Kertasari</item>
+        <item>Kecamatan Kutawaringin</item>
+        <item>Kecamatan Majalaya</item>
+        <item>Kecamatan Margaasih</item>
+        <item>Kecamatan Margahayu</item>
+        <item>Kecamatan Nagreg</item>
+        <item>Kecamatan Pacet</item>
+        <item>Kecamatan Pameungpeuk</item>
+        <item>Kecamatan Pangalengan</item>
+        <item>Kecamatan Paseh</item>
+        <item>Kecamatan Pasirjambu</item>
+        <item>Kecamatan Rancabali</item>
+        <item>Kecamatan Rancaekek</item>
+        <item>Kecamatan Solokan Jeruk</item>
+        <item>Kecamatan Soreang</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Bandung
+    <string name="kecamatanKabupatenBandungBarat_prompt">Pilih Kecamatan Kabupaten Bandung Barat</string>
+    <string-array name="kecamatanKabupatenBandungBarat_array">
+        <item>Kecamatan Batujajar</item>
+        <item>Kecamatan Cikalongwetan</item>
+        <item>Kecamatan Cihampelas</item>
+        <item>Kecamatan Cililin</item>
+        <item>Kecamatan Cipatat</item>
+        <item>Kecamatan Cipeundeuy</item>
+        <item>Kecamatan Cipongkor</item>
+        <item>Kecamatan Cisarua</item>
+        <item>Kecamatan Gununghalu</item>
+        <item>Kecamatan Lembang</item>
+        <item>Kecamatan Ngamprah</item>
+        <item>Kecamatan Padalarang</item>
+        <item>Kecamatan Parongpong</item>
+        <item>Kecamatan Rongga</item>
+        <item>Kecamatan Sindangkerta</item>
+        <item>Kecamatan Saguling</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Bekasi
+    <string name="kecamatanKabupatenBekasi_prompt">Pilih Kecamatan Kabupaten Bekasi</string>
+    <string-array name="kecamatanKabupatenBekasi_array">
+        <item>Kecamatan Babelan</item>
+        <item>Kecamatan Bojongmangu</item>
+        <item>Kecamatan Cabangbungin</item>
+        <item>Kecamatan Cibarusah</item>
+        <item>Kecamatan Cibitung</item>
+        <item>Kecamatan Cikarang Barat</item>
+        <item>Kecamatan Cikarang Pusat</item>
+        <item>Kecamatan Cikarang Selatan</item>
+        <item>Kecamatan Cikarang Utara</item>
+        <item>Kecamatan Cikarang Timur</item>
+        <item>Kecamatan Kedungwaringin</item>
+        <item>Kecamatan Karangbahagia</item>
+        <item>Kecamatan Muara Gembong</item>
+        <item>Kecamatan Pebayuran</item>
+        <item>Kecamatan Serang Baru</item>
+        <item>Kecamatan Setu</item>
+        <item>Kecamatan Sukakarya</item>
+        <item>Kecamatan Sukatani</item>
+        <item>Kecamatan Sukawangi</item>
+        <item>Kecamatan Tambun Selatan</item>
+        <item>Kecamatan Tambun Utara</item>
+        <item>Kecamatan Tambelang</item>
+        <item>Kecamatan Tarumajaya</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Bogor
+    <string name="kecamatanKabupatenBogor_prompt">Pilih Kecamatan Kabupaten Bogor</string>
+    <string-array name="kecamatanKabupatenBogor_array">
+        <item>Kecamatan Babakan Madang</item>
+        <item>Kecamatan Bojonggede</item>
+        <item>Kecamatan Caringin</item>
+        <item>Kecamatan Cariu</item>
+        <item>Kecamatan Ciampea</item>
+        <item>Kecamatan Ciawi</item>
+        <item>Kecamatan Cibinong</item>
+        <item>Kecamatan Cibungbulang</item>
+        <item>Kecamatan Cigombong</item>
+        <item>Kecamatan Cigudeg</item>
+        <item>Kecamatan Cijeruk</item>
+        <item>Kecamatan Cileungsi</item>
+        <item>Kecamatan Ciomas</item>
+        <item>Kecamatan Cisarua</item>
+        <item>Kecamatan Ciseeng</item>
+        <item>Kecamatan Citeureup</item>
+        <item>Kecamatan Dramaga</item>
+        <item>Kecamatan Gunung Putri</item>
+        <item>Kecamatan Gunung Sindur</item>
+        <item>Kecamatan Jasinga</item>
+        <item>Kecamatan Jonggol</item>
+        <item>Kecamatan Kemang</item>
+        <item>Kecamatan Klapanunggal</item>
+        <item>Kecamatan Leuwiliang</item>
+        <item>Kecamatan Leuwisadeng</item>
+        <item>Kecamatan Megamendung</item>
+        <item>Kecamatan Nanggung</item>
+        <item>Kecamatan Pamijahan</item>
+        <item>Kecamatan Parung Panjang</item>
+        <item>Kecamatan Parung</item>
+        <item>Kecamatan Ranca Bungur</item>
+        <item>Kecamatan Rumpin</item>
+        <item>Kecamatan Sukajaya</item>
+        <item>Kecamatan Sukamakmur</item>
+        <item>Kecamatan Sukaraja</item>
+        <item>Kecamatan Tajur Halang</item>
+        <item>Kecamatan Tamansari</item>
+        <item>Kecamatan Tanjungsari</item>
+        <item>Kecamatan Tenjo</item>
+        <item>Kecamatan Tenjolaya</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Ciamis
+    <string name="kecamatanKabupatenCiamis_prompt">Pilih Kecamatan Kabupaten Ciamis</string>
+    <string-array name="kecamatanKabupatenCiamis_array">
+        <item>Kecamatan Banjaranyar</item>
+        <item>Kecamatan Banjarsari</item>
+        <item>Kecamatan Baregbeg</item>
+        <item>Kecamatan Ciamis</item>
+        <item>Kecamatan Cidolog</item>
+        <item>Kecamatan Cihaurbeuti</item>
+        <item>Kecamatan Cijeungjing</item>
+        <item>Kecamatan Cikoneng</item>
+        <item>Kecamatan Cimaragas</item>
+        <item>Kecamatan Cipaku</item>
+        <item>Kecamatan Cisaga</item>
+        <item>Kecamatan Jatinagara</item>
+        <item>Kecamatan Kawali</item>
+        <item>Kecamatan Lakbok</item>
+        <item>Kecamatan Lumbung</item>
+        <item>Kecamatan Pamarican</item>
+        <item>Kecamatan Panawangan</item>
+        <item>Kecamatan Panjalu</item>
+        <item>Kecamatan Panumbangan</item>
+        <item>Kecamatan Purawadadi</item>
+        <item>Kecamatan Rajadesa</item>
+        <item>Kecamatan Rancah</item>
+        <item>Kecamatan Sadananya</item>
+        <item>Kecamatan Sindangkasih</item>
+        <item>Kecamatan Sukadana</item>
+        <item>Kecamatan Sukamantri</item>
+        <item>Kecamatan Tambaksari</item>
+        <item>Kecamatan Panjalu Utara</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Cianjur
+    <string name="kecamatanKabupatenCianjur_prompt">Pilih Kecamatan Kabupaten Cianjur</string>
+    <string-array name="kecamatanKabupatenCianjur_array">
+        <item>Kecamatan Agrabinta</item>
+        <item>Kecamatan Bojongpicung</item>
+        <item>Kecamatan Campaka</item>
+        <item>Kecamatan Campaka Mulya</item>
+        <item>Kecamatan Cianjur</item>
+        <item>Kecamatan Cibeber</item>
+        <item>Kecamatan Cibinong</item>
+        <item>Kecamatan Cidaun</item>
+        <item>Kecamatan Cijati</item>
+        <item>Kecamatan Cikadu</item>
+        <item>Kecamatan Cikalongkulon</item>
+        <item>Kecamatan Cilaku</item>
+        <item>Kecamatan Cipanas</item>
+        <item>Kecamatan Ciranjang</item>
+        <item>Kecamatan Cugenang</item>
+        <item>Kecamatan Gekbrong</item>
+        <item>Kecamatan Haurwangi</item>
+        <item>Kecamatan Kadupandak</item>
+        <item>Kecamatan Karangtengah</item>
+        <item>Kecamatan Leles</item>
+        <item>Kecamatan Mande</item>
+        <item>Kecamatan Naringgul</item>
+        <item>Kecamatan Pacet</item>
+        <item>Kecamatan Pagelaran</item>
+        <item>Kecamatan Pasirkuda</item>
+        <item>Kecamatan Sindangbarang</item>
+        <item>Kecamatan Sukaluyu</item>
+        <item>Kecamatan Sukanagara</item>
+        <item>Kecamatan Sukaresmi</item>
+        <item>Kecamatan Takokak</item>
+        <item>Kecamatan Tanggeung</item>
+        <item>Kecamatan Warungkondang</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Cirebon
+    <string name="kecamatanKabupatenCirebon_prompt">Pilih Kecamatan Kabupaten Cirebon</string>
+    <string-array name="kecamatanKabupatenCirebon_array">
+        <item>Kecamatan Arjawinangun</item>
+        <item>Kecamatan Astanajapura</item>
+        <item>Kecamatan Babakan</item>
+        <item>Kecamatan Beber </item>
+        <item>Kecamatan Ciledug</item>
+        <item>Kecamatan Ciwaringin</item>
+        <item>Kecamatan Depok</item>
+        <item>Kecamatan Dukupuntang</item>
+        <item>Kecamatan Gebang</item>
+        <item>Kecamatan Gegesik</item>
+        <item>Kecamatan Gempol</item>
+        <item>Kecamatan Greged</item>
+        <item>Kecamatan Gunung Jati</item>
+        <item>Kecamatan Jamblang</item>
+        <item>Kecamatan Kaliwedi</item>
+        <item>Kecamatan kapetakan</item>
+        <item>Kecamatan Karangsembung</item>
+        <item>Kecamatan Karangwareng</item>
+        <item>Kecamatan Kedawung</item>
+        <item>Kecamatan Klangenan</item>
+        <item>Kecamatan Lemahabang</item>
+        <item>Kecamatan Losari</item>
+        <item>Kecamatan Mundu</item>
+        <item>Kecamatan Pabedilan</item>
+        <item>Kecamatan Pabuaran</item>
+        <item>Kecamatan Palimanan</item>
+        <item>Kecamatan Pangenan</item>
+        <item>Kecamatan Panguragan</item>
+        <item>Kecamatan Pasaleman</item>
+        <item>Kecamatan Plered</item>
+        <item>Kecamatan Plumbon</item>
+        <item>Kecamatan Sendong</item>
+        <item>Kecamatan Sumber</item>
+        <item>Kecamatan Suranenggala</item>
+        <item>Kecamatan Susukan</item>
+        <item>Kecamatan Susukan Lebak</item>
+        <item>Kecamatan Talun</item>
+        <item>Kecamatan Tengah Tani</item>
+        <item>Kecamatan Waled</item>
+        <item>Kecamatan Weru</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Garut
+    <string name="kecamatanKabupatenGarut_prompt">Pilih Kecamatan Kabupaten Garut</string>
+    <string-array name="kecamatanKabupatenGarut_array">
+        <item>Kecamatan Banjarwangi</item>
+        <item>Kecamatan Banyuresmi</item>
+        <item>Kecamatan Bayongbong</item>
+        <item>Kecamatan Blubur Limbangan</item>
+        <item>Kecamatan bungbulang</item>
+        <item>Kecamatan Caringin</item>
+        <item>Kecamatan Cibalong</item>
+        <item>Kecamatan Cibatu</item>
+        <item>Kecamatan Cibiuk</item>
+        <item>Kecamatan Cigeedug</item>
+        <item>Kecamatan Cihurip</item>
+        <item>Kecamatan Cikajang</item>
+        <item>Kecamatan Cikelet</item>
+        <item>Kecamatan Cilawu</item>
+        <item>Kecamatan Cisewu</item>
+        <item>Kecamatan Cisompet</item>
+        <item>Kecamatan Cisurupan</item>
+        <item>Kecamatan Garut Kota</item>
+        <item>Kecamatan Kadungora</item>
+        <item>Kecamatan Karangpawitan</item>
+        <item>Kecamatan Karangtengah</item>
+        <item>Kecamatan Kersamanah</item>
+        <item>Kecamatan Leles</item>
+        <item>Kecamatan Leuwigoong</item>
+        <item>Kecamatan Malangbong</item>
+        <item>Kecamatan Mekarmukti</item>
+        <item>Kecamatan Pakenjeng</item>
+        <item>Kecamatan Pameungpeuk</item>
+        <item>Kecamatan Pamulihan</item>
+        <item>Kecamatan Pangatikan</item>
+        <item>Kecamatan Pasirwangi</item>
+        <item>Kecamatan Peundeuy</item>
+        <item>Kecamatan Samarang</item>
+        <item>Kecamatan Selaawi</item>
+        <item>Kecamatan Singajaya</item>
+        <item>Kecamatan Sucinaraja</item>
+        <item>Kecamatan Sukaresmi</item>
+        <item>Kecamatan Sukawening</item>
+        <item>Kecamatan Talegong</item>
+        <item>Kecamatan Tarogong Kaler</item>
+        <item>Kecamatan Tarogong Kidul</item>
+        <item>Kecamatan Wanaraja</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Indramayu
+    <string name="kecamatanKabupatenIndramayu_prompt">Pilih Kecamatan Kabupaten Indramayu</string>
+    <string-array name="kecamatanKabupatenIndramayu_array">
+        <item>Kecamatan Anjatan</item>
+        <item>Kecamatan Arahan</item>
+        <item>Kecamatan Balongan</item>
+        <item>Kecamatan Bangodua</item>
+        <item>Kecamatan Bongas</item>
+        <item>Kecamatan Cantigi</item>
+        <item>Kecamatan Cikedung</item>
+        <item>Kecamatan Gabuswetan</item>
+        <item>Kecamatan Gantar</item>
+        <item>Kecamatan Hausgeulis</item>
+        <item>Kecamatan Indramayu</item>
+        <item>Kecamatan Jatibarang</item>
+        <item>Kecamatan Juntinyuat</item>
+        <item>Kecamatan Kandanghaur</item>
+        <item>Kecamatan Karangampel</item>
+        <item>Kecamatan Kedokan Bunder</item>
+        <item>Kecamatan Kertasemaya</item>
+        <item>Kecamatan Krangkeng</item>
+        <item>Kecamatan Kroya</item>
+        <item>Kecamatan Lelea</item>
+        <item>Kecamatan Lohbener</item>
+        <item>Kecamatan Losarang</item>
+        <item>Kecamatan Pasekan</item>
+        <item>Kecamatan Patrol</item>
+        <item>Kecamatan Sindang</item>
+        <item>Kecamatan Sliyeg</item>
+        <item>Kecamatan Sukagumiwang</item>
+        <item>Kecamatan Sukra</item>
+        <item>Kecamatan Trisi</item>
+        <item>Kecamatan Tukdana</item>
+        <item>Kecamatan Widasari</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Karawang
+    <string name="kecamatanKabupatenKarawang_prompt">Pilih Kecamatan Kabupaten Karawang</string>
+    <string-array name="kecamatanKabupatenKarawang_array">
+        <item>Kecamatan Banyusari</item>
+        <item>Kecamatan Batujaya</item>
+        <item>Kecamatan Ciampel</item>
+        <item>Kecamatan Cibuaya</item>
+        <item>Kecamatan Cikampek</item>
+        <item>Kecamatan Cilamaya Kulon</item>
+        <item>Kecamatan Cilamaya Wetan</item>
+        <item>Kecamatan Cilebar</item>
+        <item>Kecamatan Jatisari</item>
+        <item>Kecamatan Jayakerta</item>
+        <item>Kecamatan Karawang Barat</item>
+        <item>Kecamatan Karawang Timur</item>
+        <item>Kecamatan Klari</item>
+        <item>Kecamatan Kotabaru</item>
+        <item>Kecamatan Kutawaluya</item>
+        <item>Kecamatan Lemahabang</item>
+        <item>Kecamatan Majalaya</item>
+        <item>Kecamatan Pakisjaya</item>
+        <item>Kecamatan Pangkalan</item>
+        <item>Kecamatan Pedes</item>
+        <item>Kecamatan Purwasari</item>
+        <item>Kecamatan Rawamerta</item>
+        <item>Kecamatan Rengasdengklok</item>
+        <item>Kecamatan Talagasari</item>
+        <item>Kecamatan Tegalwaru</item>
+        <item>Kecamatan Telukjambe Barat</item>
+        <item>Kecamatan Telukjambe Timur</item>
+        <item>Kecamatan Tempura</item>
+        <item>Kecamatan Tirtajaya</item>
+        <item>Kecamatan Tirtamulya</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Kuningan
+    <string name="kecamatanKabupatenKuningan_prompt">Pilih Kecamatan Kabupaten Kuningan</string>
+    <string-array name="kecamatanKabupatenKuningan_array">
+        <item>Kecamatan Ciawigebang</item>
+        <item>Kecamatan Cibeureum</item>
+        <item>Kecamatan Cibingbin</item>
+        <item>Kecamatan Cidahu</item>
+        <item>Kecamatan Cigandamekar</item>
+        <item>Kecamatan Cigugur</item>
+        <item>Kecamatan Cilebak</item>
+        <item>Kecamatan Cilimus</item>
+        <item>Kecamatan Cimahi</item>
+        <item>Kecamatan Ciniru</item>
+        <item>Kecamatan Cipicung</item>
+        <item>Kecamatan Ciwaru</item>
+        <item>Kecamatan Darma</item>
+        <item>Kecamatan Garawangi</item>
+        <item>Kecamatan Hantara</item>
+        <item>Kecamatan Jalaksana</item>
+        <item>Kecamatan Japara</item>
+        <item>Kecamatan Kadugede</item>
+        <item>Kecamatan Kalimanggis</item>
+        <item>Kecamatan Karangkancana</item>
+        <item>Kecamatan Kramatmulya</item>
+        <item>Kecamatan Kuningan</item>
+        <item>Kecamatan Lebakwangi</item>
+        <item>Kecamatan Luragung</item>
+        <item>Kecamatan Maleber</item>
+        <item>Kecamatan Mandirancan</item>
+        <item>Kecamatan Nusaherang</item>
+        <item>Kecamatan Pancalang</item>
+        <item>Kecamatan Pasawahan</item>
+        <item>Kecamatan Selajambe</item>
+        <item>Kecamatan Sindangagung</item>
+        <item>Kecamatan Subang</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Majalengka
+    <string name="kecamatanKabupatenMajalengka_prompt">Pilih Kecamatan Kabupaten Majalengka</string>
+    <string-array name="kecamatanKabupatenMajalengka_array">
+        <item>Kecamatan Majalengka</item>
+        <item>Kecamatan Kadipaten</item>
+        <item>Kecamatan Jatiwangi</item>
+        <item>Kecamatan Dawuan</item>
+        <item>Kecamatan Jatitujuh</item>
+        <item>Kecamatan Ligung</item>
+        <item>Kecamatan Leuwimunding</item>
+        <item>Kecamatan Rajagaluh</item>
+        <item>Kecamatan Maja</item>
+        <item>Kecamatan Talaga</item>
+        <item>Kecamatan Cikijing</item>
+        <item>Kecamatan Bantarujeg</item>
+        <item>Kecamatan Sukahaji</item>
+        <item>Kecamatan Sumberjaya</item>
+        <item>Kecamatan Lemahsugih</item>
+        <item>Kecamatan Argapura</item>
+        <item>Kecamatan Kertajati</item>
+        <item>Kecamatan Panyingkiran</item>
+        <item>Kecamatan Palasah</item>
+        <item>Kecamatan Cigasong</item>
+        <item>Kecamatan Sindangwangi</item>
+        <item>Kecamatan Banjaran</item>
+        <item>Kecamatan Cingambul</item>
+        <item>Kecamatan Sindang</item>
+        <item>Kecamatan Kasokandel</item>
+        <item>Kecamatan Malausma</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Pangandaran
+    <string name="kecamatanKabupatenPangandaran_prompt">Pilih Kecamatan Kabupaten Pangandaran</string>
+    <string-array name="kecamatanKabupatenPangandaran_array">
+        <item>Kecamatan Cigugur</item>
+        <item>Kecamatan Cijulang</item>
+        <item>Kecamatan Cimerak</item>
+        <item>Kecamatan Kalipucang</item>
+        <item>Kecamatan Langkaplancar</item>
+        <item>Kecamatan Mangunjaya</item>
+        <item>Kecamatan Padaherang</item>
+        <item>Kecamatan Pangandaran</item>
+        <item>Kecamatan Parigi</item>
+        <item>Kecamatan Sidamulih</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Purwakarta
+    <string name="kecamatanKabupatenPurwakarta_prompt">Pilih Kecamatan Kabupaten Purwakarta</string>
+    <string-array name="kecamatanKabupatenPurwakarta_array">
+        <item>Kecamatan Babakancikao</item>
+        <item>Kecamatan Bojong</item>
+        <item>Kecamatan Bungursari</item>
+        <item>Kecamatan Campaka</item>
+        <item>Kecamatan Cibatu</item>
+        <item>Kecamatan Darangdan</item>
+        <item>Kecamatan Jatiluhur</item>
+        <item>Kecamatan Kiarapedes</item>
+        <item>Kecamatan Maniis</item>
+        <item>Kecamatan Pasawahan</item>
+        <item>Kecamatan Plered</item>
+        <item>Kecamatan Pondoksalam</item>
+        <item>Kecamatan Purwakarta</item>
+        <item>Kecamatan Sukasari</item>
+        <item>Kecamatan Sukatani</item>
+        <item>Kecamatan Tegal Waru</item>
+        <item>Kecamatan Wanayasa</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Subang
+    <string name="kecamatanKabupatenSubang_prompt">Pilih Kecamatan Kabupaten Subang</string>
+    <string-array name="kecamatanKabupatenSubang_array">
+        <item>Kecamatan Binong</item>
+        <item>Kecamatan Blanakan</item>
+        <item>Kecamatan Ciater</item>
+        <item>Kecamatan Cibogo</item>
+        <item>Kecamatan Cijambe</item>
+        <item>Kecamatan Cikaum</item>
+        <item>Kecamatan Cipeundeuy</item>
+        <item>Kecamatan Cipunagara</item>
+        <item>Kecamatan Cisalak</item>
+        <item>Kecamatan Compreng</item>
+        <item>Kecamatan Dawuan</item>
+        <item>Kecamatan Jalancagak</item>
+        <item>Kecamatan Kalijati</item>
+        <item>Kecamatan Kasomalang</item>
+        <item>Kecamatan Legonkulon</item>
+        <item>Kecamatan Pabuaran</item>
+        <item>Kecamatan Pagaden Barat</item>
+        <item>Kecamatan Pagaden</item>
+        <item>Kecamatan Pamanukan</item>
+        <item>Kecamatan Patokbeusi</item>
+        <item>Kecamatan Purwadadi</item>
+        <item>Kecamatan Pusakajaya</item>
+        <item>Kecamatan Pusakanagara</item>
+        <item>Kecamatan Sagalaherang</item>
+        <item>Kecamatan Serangpanjang</item>
+        <item>Kecamatan Subang</item>
+        <item>Kecamatan Sukasari</item>
+        <item>Kecamatan Tambakdahan</item>
+        <item>Kecamatan Tanjungsiang</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Sukabumi
+    <string name="kecamatanKabupatenSukabumi_prompt">Pilih Kecamatan Kabupaten Sukabumi</string>
+    <string-array name="kecamatanKabupatenSukabumi_array">
+        <item>Kecamatan Bantargadung</item>
+        <item>Kecamatan Bojong Genteng</item>
+        <item>Kecamatan Caringin</item>
+        <item>Kecamatan Ciambar</item>
+        <item>Kecamatan Cibadak</item>
+        <item>Kecamatan Cibitung</item>
+        <item>Kecamatan Cicantayan</item>
+        <item>Kecamatan Cicurug</item>
+        <item>Kecamatan Cidadap</item>
+        <item>Kecamatan Cidahu</item>
+        <item>Kecamatan Cidolog</item>
+        <item>Kecamatan Ciemas</item>
+        <item>Kecamatan Cikakak</item>
+        <item>Kecamatan Cikembar</item>
+        <item>Kecamatan Cikidang</item>
+        <item>Kecamatan Cimanggu</item>
+        <item>Kecamatan Ciracap</item>
+        <item>Kecamatan Cireunghas</item>
+        <item>Kecamatan Cisaat</item>
+        <item>Kecamatan Cisolok</item>
+        <item>Kecamatan Curugkembar</item>
+        <item>Kecamatan Geger Bitung</item>
+        <item>Kecamatan Gunung Guruh</item>
+        <item>Kecamatan Jampang Kulon</item>
+        <item>Kecamatan Jampang Tengah</item>
+        <item>Kecamatan Kabandungan</item>
+        <item>Kecamatan Kadudampit</item>
+        <item>Kecamatan Kalapa Nunggal</item>
+        <item>Kecamatan Kali Bunder</item>
+        <item>Kecamatan Kebonpedes</item>
+        <item>Kecamatan Lengkong</item>
+        <item>Kecamatan Nagrak</item>
+        <item>Kecamatan Nyalindung</item>
+        <item>Kecamatan Pabuaran</item>
+        <item>Kecamatan Palabuhan Ratu</item>
+        <item>Kecamatan Parakan Salak</item>
+        <item>Kecamatan Parung Kuda</item>
+        <item>Kecamatan Purabaya</item>
+        <item>Kecamatan Sagaranten</item>
+        <item>Kecamatan Simpenan</item>
+        <item>Kecamatan Sukabumi</item>
+        <item>Kecamatan Sukalarang</item>
+        <item>Kecamatan Sukaraja</item>
+        <item>Kecamatan Surade</item>
+        <item>Kecamatan Tegal Buleud</item>
+        <item>Kecamatan Waluran</item>
+        <item>Kecamatan Warung Kiara</item>
+        <item>Kecamatan Pangandaran</item>
+        <item>Kecamatan Parigi</item>
+        <item>Kecamatan Sidamulih</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Sumedang
+    <string name="kecamatanKabupatenSumedang_prompt">Pilih Kecamatan Kabupaten Sumedang</string>
+    <string-array name="kecamatanKabupatenSumedang_array">
+        <item>Kecamatan Buahdua</item>
+        <item>Kecamatan Cibugel</item>
+        <item>Kecamatan Cimalaka</item>
+        <item>Kecamatan Cimanggung</item>
+        <item>Kecamatan Cisarua</item>
+        <item>Kecamatan Cisitu</item>
+        <item>Kecamatan Conggeang</item>
+        <item>Kecamatan Darmaraja</item>
+        <item>Kecamatan Ganeas</item>
+        <item>Kecamatan Jatigede</item>
+        <item>Kecamatan Jatinangor</item>
+        <item>Kecamatan Jatinunggal</item>
+        <item>Kecamatan Pamulihan</item>
+        <item>Kecamatan Paseh</item>
+        <item>Kecamatan Rancakalong</item>
+        <item>Kecamatan Situraja</item>
+        <item>Kecamatan Sukasari</item>
+        <item>Kecamatan Sumedang Selatan</item>
+        <item>Kecamatan Sumedang Utara</item>
+        <item>Kecamatan Surian</item>
+        <item>Kecamatan Tanjungkerta</item>
+        <item>Kecamatan Tanjungmedar</item>
+        <item>Kecamatan Tanjungsari</item>
+        <item>Kecamatan Tomo</item>
+        <item>Kecamatan Ujung Jaya</item>
+        <item>Kecamatan Wado</item>
+    </string-array>
+
+    --> Kecamatan:  Kabupaten Tasikmalaya
+    <string name="kecamatanKabupatenTasikmalaya_prompt">Pilih Kecamatan Kabupaten Tasikmalaya</string>
+    <string-array name="kecamatanKabupatenTasikmalaya_array">
+        <item>Kecamatan Bantarkalong</item>
+        <item>Kecamatan Bojong Asih</item>
+        <item>Kecamatan Bojonggambir</item>
+        <item>Kecamatan Ciawi</item>
+        <item>Kecamatan Cibalong</item>
+        <item>Kecamatan Cigalontang</item>
+        <item>Kecamatan Cikalong</item>
+        <item>Kecamatan Cikatomas</item>
+        <item>Kecamatan Cineam</item>
+        <item>Kecamatan Cipatujah</item>
+        <item>Kecamatan Cisayong</item>
+        <item>Kecamatan Culamega</item>
+        <item>Kecamatan Gunungtanjung</item>
+        <item>Kecamatan Jamanis</item>
+        <item>Kecamatan Jatiwaras</item>
+        <item>Kecamatan Kadipaten</item>
+        <item>Kecamatan Karang Jaya</item>
+        <item>Kecamatan Karangnuggal</item>
+        <item>Kecamatan Leuwisari</item>
+        <item>Kecamatan Mangunreja</item>
+        <item>Kecamatan Manonjaya</item>
+        <item>Kecamatan Padakembang</item>
+        <item>Kecamatan Pagerageung</item>
+        <item>Kecamatan Pancatengah</item>
+        <item>Kecamatan Parungponteng</item>
+        <item>Kecamatan Puspahiang</item>
+        <item>Kecamatan Rajapolah</item>
+        <item>Kecamatan Salawu</item>
+        <item>Kecamatan Salopa</item>
+        <item>Kecamatan Sariwangi</item>
+        <item>Kecamatan Singaparna</item>
+        <item>Kecamatan Sodonghilir</item>
+        <item>Kecamatan Sukahening</item>
+        <item>Kecamatan Sukaraja</item>
+        <item>Kecamatan Sukarame</item>
+        <item>Kecamatan Sukaratu</item>
+        <item>Kecamatan Sukaresik</item>
+        <item>Kecamatan Tanjungjaya</item>
+        <item>Kecamatan Taraju</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Bandung
+    <string name="kecamatanKotaBandung_prompt">Pilih Kecamatan Kota Bandung</string>
+    <string-array name="kecamatanKotaBandung_array">
+        <item>Kecamatan Andir</item>
+        <item>Kecamatan Antapani</item>
+        <item>Kecamatan Arcamanik</item>
+        <item>Kecamatan Astanaanyar</item>
+        <item>Kecamatan Babakanciparay</item>
+        <item>Kecamatan Bandung Kidul</item>
+        <item>Kecamatan Bandung Kulon</item>
+        <item>Kecamatan Bandung Wetan</item>
+        <item>Kecamatan Batununggal</item>
+        <item>Kecamatan Bojongloa Kaler</item>
+        <item>Kecamatan Bojongloa Kidul</item>
+        <item>Kecamatan Buahbatu</item>
+        <item>Kecamatan Cibeunying Kaler</item>
+        <item>Kecamatan Cibeunying Kidul</item>
+        <item>Kecamatan Cibiru</item>
+        <item>Kecamatan Cicendo</item>
+        <item>Kecamatan Cidadap</item>
+        <item>Kecamatan Cinambo</item>
+        <item>Kecamatan Coblong</item>
+        <item>Kecamatan Gedebage</item>
+        <item>Kecamatan Kiaracondong</item>
+        <item>Kecamatan Lengkong</item>
+        <item>Kecamatan Mandalajati</item>
+        <item>Kecamatan Panyileukan</item>
+        <item>Kecamatan Rancasari</item>
+        <item>Kecamatan Regol</item>
+        <item>Kecamatan Sukajadi</item>
+        <item>Kecamatan Sukasari</item>
+        <item>Kecamatan Sumurbandung</item>
+        <item>Kecamatan Ujungberung</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Banjar
+    <string name="kecamatanKotaBanjar_prompt">Pilih Kecamatan Kota Banjar</string>
+    <string-array name="kecamatanKotaBanjar_array">
+        <item>Kecamatan Banjar</item>
+        <item>Kecamatan Langensari</item>
+        <item>Kecamatan Pataruman</item>
+        <item>Kecamatan Purwaharja</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Bekasi
+    <string name="kecamatanKotaBekasi_prompt">Pilih Kecamatan Kota Bekasi</string>
+    <string-array name="kecamatanKotaBekasi_array">
+        <item>Kecamatan Bantar Gebang</item>
+        <item>Kecamatan Bekasi Barat</item>
+        <item>Kecamatan Bekasi Selatan</item>
+        <item>Kecamatan Bekasi Timur</item>
+        <item>Kecamatan Bekasi Utara</item>
+        <item>Kecamatan Jatiasih</item>
+        <item>Kecamatan Jatisampurna</item>
+        <item>Kecamatan Medan Satria</item>
+        <item>Kecamatan Mustika Jaya</item>
+        <item>Kecamatan Pondok Gede</item>
+        <item>Kecamatan Pondok Melati</item>
+        <item>Kecamatan Rawalumbu</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Bogor
+    <string name="kecamatanKotaBogor_prompt">Pilih Kecamatan Kota Bogor</string>
+    <string-array name="kecamatanKotaBogor_array">
+        <item>Kecamatan Bogor Barat</item>
+        <item>Kecamatan Bogor Selatan</item>
+        <item>Kecamatan Bogor Tengah</item>
+        <item>Kecamatan Bogoh Timur</item>
+        <item>Kecamatan Bogor Utara</item>
+        <item>Kecamatan Tanah Sareal</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Cimahi
+    <string name="kecamatanKotaCimahi_prompt">Pilih Kecamatan Kota Cimahi</string>
+    <string-array name="kecamatanKotaCimahi_array">
+        <item>Kecamatan Cimahi Selatan</item>
+        <item>Kecamatan Cimahi Tengah</item>
+        <item>Kecamatan Cimahi Utara</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Cirebon
+    <string name="kecamatanKotaCirebon_prompt">Pilih Kecamatan Kota Cirebon</string>
+    <string-array name="kecamatanKotaCirebon_array">
+        <item>Kecamatan Harjamukti</item>
+        <item>Kecamatan Kejaksan</item>
+        <item>Kecamatan Kesambi</item>
+        <item>Kecamatan Lemahwungkuk</item>
+        <item>Kecamatan Pekalipan</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Depok
+    <string name="kecamatanKotaDepok_prompt">Pilih Kecamatan Kota Depok</string>
+    <string-array name="kecamatanKotaDepok_array">
+        <item>Kecamatan Beji</item>
+        <item>Kecamatan Bojongsari</item>
+        <item>Kecamatan Cilodong</item>
+        <item>Kecamatan Cimanggis</item>
+        <item>Kecamatan Cinere</item>
+        <item>Kecamatan Cipayung</item>
+        <item>Kecamatan Limo</item>
+        <item>Kecamatan Pancoran Mas</item>
+        <item>Kecamatan Sawangan</item>
+        <item>Kecamatan Sukmajaya</item>
+        <item>Kecamatan Tapos</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Sukabumi
+    <string name="kecamatanKotaSukabumi_prompt">Pilih Kecamatan Kota Sukabumi</string>
+    <string-array name="kecamatanKotaSukabumi_array">
+        <item>Kecamatan Baros</item>
+        <item>Kecamatan Cibeureum</item>
+        <item>Kecamatan Cikole</item>
+        <item>Kecamatan Citamiang</item>
+        <item>Kecamatan Gunungpuyuh</item>
+        <item>Kecamatan Lembursitu</item>
+        <item>Kecamatan Warudoyong</item>
+    </string-array>
+
+    --> Kecamatan:  Kota Tasikmalaya
+    <string name="kecamatanKotaTasikmalaya_prompt">Pilih Kecamatan Kota Tasikmalaya</string>
+    <string-array name="kecamatanKotaTasikmalaya_array">
+        <item>Kecamatan Bungursari</item>
+        <item>Kecamatan Cibeureum</item>
+        <item>Kecamatan Cihideung</item>
+        <item>Kecamatan Cipedes</item>
+        <item>Kecamatan Indihiang</item>
+        <item>Kecamatan Kawalu</item>
+        <item>Kecamatan Mangkubumi</item>
+        <item>Kecamatan Purbaratu</item>
+        <item>Kecamatan Tamansari</item>
+        <item>Kecamatan Tawang</item>
+    </string-array>
+
+    ----- // Kabupaten:  Jawa Barat
+
+</resources>

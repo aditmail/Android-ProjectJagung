@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.aditmail.projectjagung.Registrasi">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="sans-serif"
+                android:text="@string/regis"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+
+                android:text="@string/name"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/inputNama"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+
+                android:inputType="textPersonName"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif"
+                android:text="@string/phone"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/inputNoHP"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+
+                android:hint="+62"
+                android:inputType="number"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif"
+                android:text="@string/surel"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/inputEmail"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+                android:inputType="textWebEmailAddress"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif"
+                android:text="Jenis Kelamin:"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/spinner_gender"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:entries="@array/gender_array"
+                android:prompt="@string/gender_prompt" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:text="Alamat"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/inputAlamat"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/txt_provinsi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif"
+                android:text="Provinsi:"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/spinner_provinsi"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:entries="@array/provinsi_array"
+                android:prompt="@string/provinsi_prompt" />
+
+            <TextView
+                android:id="@+id/txt_kabupaten"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif"
+                android:text="Kabupaten/Kota:"
+
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/inputKabupaten"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+                android:inputType="textWebEmailAddress"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:visibility="gone" />
+
+            <Spinner
+                android:id="@+id/spinner_kabupatenBanten"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" />
+
+            <Spinner
+                android:id="@+id/spinner_kabupatenJawaBarat"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" />
+
+            <Spinner
+                android:id="@+id/spinner_kabupatenJawaTengah"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" />
+
+            <Spinner
+                android:id="@+id/spinner_kabupatenLampung"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/txt_kecamatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif"
+                android:text="Kecamatan:"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/inputKecamatan"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+                android:inputType="textWebEmailAddress"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/linear_banten"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:orientation="vertical">
+
+                <Spinner
+                    android:id="@+id/spinner_lebak"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenLebak_array"
+                    android:prompt="@string/kecamatanKabupatenLebak_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_cilegon"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaCilegon_array"
+                    android:prompt="@string/kecamatanKotaCilegon_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_tangerang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTangerang_array"
+                    android:prompt="@string/kecamatanKabupatenTangerang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaTangsel"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaTangerangSelatan_array"
+                    android:prompt="@string/kecamatanKotaTangerangSelatan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_serang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSerang_array"
+                    android:prompt="@string/kecamatanKabupatenSerang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaSerang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaSerang_array"
+                    android:prompt="@string/kecamatanKotaSerang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pandegelang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPandegelang_array"
+                    android:prompt="@string/kecamatanKabupatenPandegelang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaTangerang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaTangerang_array"
+                    android:prompt="@string/kecamatanKotaTangerang_prompt"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_jabar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Spinner
+                    android:id="@+id/spinner_bandung"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBandung_array"
+                    android:prompt="@string/kecamatanKabupatenBandung_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_bandungBarat"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBandungBarat_array"
+                    android:prompt="@string/kecamatanKabupatenBandungBarat_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_bekasi"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBekasi_array"
+                    android:prompt="@string/kecamatanKabupatenBekasi_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_bogor"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBogor_array"
+                    android:prompt="@string/kecamatanKabupatenBogor_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_ciamis"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenCiamis_array"
+                    android:prompt="@string/kecamatanKabupatenCiamis_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_cianjur"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenCianjur_array"
+                    android:prompt="@string/kecamatanKabupatenCianjur_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_cirebon"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenCirebon_array"
+                    android:prompt="@string/kecamatanKabupatenCirebon_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_garut"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenGarut_array"
+                    android:prompt="@string/kecamatanKabupatenGarut_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_indramayu"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenIndramayu_array"
+                    android:prompt="@string/kecamatanKabupatenIndramayu_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_karawang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKarawang_array"
+                    android:prompt="@string/kecamatanKabupatenKarawang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kuningan"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKuningan_array"
+                    android:prompt="@string/kecamatanKabupatenKuningan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_majalengka"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenMajalengka_array"
+                    android:prompt="@string/kecamatanKabupatenMajalengka_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pangandaran"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPangandaran_array"
+                    android:prompt="@string/kecamatanKabupatenPangandaran_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_purwakarta"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPurwakarta_array"
+                    android:prompt="@string/kecamatanKabupatenPurwakarta_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_subang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSubang_array"
+                    android:prompt="@string/kecamatanKabupatenSubang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_sukabumi"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSukabumi_array"
+                    android:prompt="@string/kecamatanKabupatenSukabumi_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_sumedang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSumedang_array"
+                    android:prompt="@string/kecamatanKabupatenSumedang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_tasikmalaya"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTasikmalaya_array"
+                    android:prompt="@string/kecamatanKabupatenTasikmalaya_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaBandung"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaBandung_array"
+                    android:prompt="@string/kecamatanKotaBandung_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaBanjar"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaBanjar_array"
+                    android:prompt="@string/kecamatanKotaBanjar_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaBekasi"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaBekasi_array"
+                    android:prompt="@string/kecamatanKotaBekasi_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaBogor"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaBogor_array"
+                    android:prompt="@string/kecamatanKotaBogor_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaCimahi"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaCimahi_array"
+                    android:prompt="@string/kecamatanKotaCimahi_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaCirebon"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaCirebon_array"
+                    android:prompt="@string/kecamatanKotaCirebon_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaDepok"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaDepok_array"
+                    android:prompt="@string/kecamatanKotaDepok_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaSukabumi"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaSukabumi_array"
+                    android:prompt="@string/kecamatanKotaSukabumi_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaTasikmalaya"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaTasikmalaya_array"
+                    android:prompt="@string/kecamatanKotaTasikmalaya_prompt"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_jateng"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Spinner
+                    android:id="@+id/spinner_banjarnegara"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBanjarnegara_array"
+                    android:prompt="@string/kecamatanKabupatenBanjarnegara_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_banyumas"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBanyumas_array"
+                    android:prompt="@string/kecamatanKabupatenBanyumas_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_batang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBatang_array"
+                    android:prompt="@string/kecamatanKabupatenBatang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_blora"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBlora_array"
+                    android:prompt="@string/kecamatanKabupatenBlora_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_boyolali"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBoyolali_array"
+                    android:prompt="@string/kecamatanKabupatenBoyolali_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_brebes"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenBrebes_array"
+                    android:prompt="@string/kecamatanKabupatenBrebes_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_cilacap"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenCilacap_array"
+                    android:prompt="@string/kecamatanKabupatenCilacap_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_demak"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenDemak_array"
+                    android:prompt="@string/kecamatanKabupatenDemak_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_grobogan"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenGrobogan_array"
+                    android:prompt="@string/kecamatanKabupatenGrobogan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_jepara"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenJepara_array"
+                    android:prompt="@string/kecamatanKabupatenJepara_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_karanganyar"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKaranganyar_array"
+                    android:prompt="@string/kecamatanKabupatenKaranganyar_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kebumen"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKebumen_array"
+                    android:prompt="@string/kecamatanKabupatenKebumen_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kendal"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKendal_array"
+                    android:prompt="@string/kecamatanKabupatenKendal_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_klaten"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKlaten_array"
+                    android:prompt="@string/kecamatanKabupatenKlaten_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kudus"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenKudus_array"
+                    android:prompt="@string/kecamatanKabupatenKudus_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_magelang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenMagelang_array"
+                    android:prompt="@string/kecamatanKabupatenMagelang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pati"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPati_array"
+                    android:prompt="@string/kecamatanKabupatenPati_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pekalongan"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPekalongan_array"
+                    android:prompt="@string/kecamatanKabupatenPekalongan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pemalang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPemalang_array"
+                    android:prompt="@string/kecamatanKabupatenPemalang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_purbalingga"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPurbalingga_array"
+                    android:prompt="@string/kecamatanKabupatenPurbalingga_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_purworejo"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPurworejo_array"
+                    android:prompt="@string/kecamatanKabupatenPurworejo_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_rembang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenRembang_array"
+                    android:prompt="@string/kecamatanKabupatenRembang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_semarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSemarang_array"
+                    android:prompt="@string/kecamatanKabupatenSemarang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_sragen"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSragen_array"
+                    android:prompt="@string/kecamatanKabupatenSragen_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_sukoharjo"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenSukoharjo_array"
+                    android:prompt="@string/kecamatanKabupatenSukoharjo_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_tegal"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTegal_array"
+                    android:prompt="@string/kecamatanKabupatenTegal_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_temanggung"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTemanggung_array"
+                    android:prompt="@string/kecamatanKabupatenTemanggung_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_wonogiri"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenWonogiri_array"
+                    android:prompt="@string/kecamatanKabupatenWonogiri_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_wonosobo"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenWonosobo_array"
+                    android:prompt="@string/kecamatanKabupatenWonosobo_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaMagelang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaMagelang_array"
+                    android:prompt="@string/kecamatanKotaMagelang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaPekalongan"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaPekalongan_array"
+                    android:prompt="@string/kecamatanKotaPekalongan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaSalatiga"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaSalatiga_array"
+                    android:prompt="@string/kecamatanKotaSalatiga_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaSemarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaSemarang_array"
+                    android:prompt="@string/kecamatanKotaSemarang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaSurakarta"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaSurakarta_array"
+                    android:prompt="@string/kecamatanKotaSurakarta_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaTegal"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaTegal_array"
+                    android:prompt="@string/kecamatanKotaTegal_prompt"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_lampung"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Spinner
+                    android:id="@+id/spinner_lampungBarat"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenLampungBarat_array"
+                    android:prompt="@string/kecamatanKabupatenLampungBarat_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_lampungSelatan"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenLampungSelatan_array"
+                    android:prompt="@string/kecamatanKabupatenLampungSelatan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_lampungTengah"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenLampungTengah_array"
+                    android:prompt="@string/kecamatanKabupatenLampungTengah_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_lampungTimur"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenLampungTimur_array"
+                    android:prompt="@string/kecamatanKabupatenLampungTimur_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_lampungUtara"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenLampungUtara_array"
+                    android:prompt="@string/kecamatanKabupatenLampungUtara_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_mesuji"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenMesuji_array"
+                    android:prompt="@string/kecamatanKabupatenMesuji_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pesawaran"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPesawaran_array"
+                    android:prompt="@string/kecamatanKabupatenPesawaran_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pesisirBarat"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPesisirBarat_array"
+                    android:prompt="@string/kecamatanKabupatenPesisirBarat_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_pringsewu"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenPringsewu_array"
+                    android:prompt="@string/kecamatanKabupatenPringsewu_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_tanggamus"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTanggamus_array"
+                    android:prompt="@string/kecamatanKabupatenTanggamus_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_tulangBawang"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTulangBawang_array"
+                    android:prompt="@string/kecamatanKabupatenTulangBawang_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_tulangBawangBarat"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenTulangBawangBarat_array"
+                    android:prompt="@string/kecamatanKabupatenTulangBawangBarat_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_wayKanan"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKabupatenWayKanan_array"
+                    android:prompt="@string/kecamatanKabupatenWayKanan_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaBandarLampung"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaBandarLampung_array"
+                    android:prompt="@string/kecamatanKotaBandarLampung_prompt"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinner_kotaMetro"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="10dp"
+                    android:entries="@array/kecamatanKotaMetro_array"
+                    android:prompt="@string/kecamatanKotaMetro_prompt"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnRegister"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="75dp"
+                android:layout_marginRight="75dp"
+                android:layout_marginTop="15dp"
+                android:elevation="0dp"
+                android:fontFamily="monospace"
+                android:foreground="?android:attr/colorControlHighlight"
+                android:text="Registrasi"
+                android:textColor="?android:attr/textColorLink"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
